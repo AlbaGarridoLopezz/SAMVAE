@@ -80,7 +80,7 @@ If you want to display comparison results between SAVAE and SOTA models, run the
 <!-- CONTACT -->
 ## Contact
 
-Patricia A. Apellaniz - patricia.alonsod@upm.es
+Alba Garrido - alba.garrido.lopez@upm.es
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
