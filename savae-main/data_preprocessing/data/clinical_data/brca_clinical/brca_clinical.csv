@@ -1,0 +1,1058 @@
+case_id,age_at_index,gender,race,event,age_at_diagnosis,ajcc_pathologic_m,ajcc_pathologic_n,ajcc_pathologic_stage,ajcc_pathologic_t,ajcc_staging_system_edition,morphology,primary_diagnosis,prior_malignancy,prior_treatment,tissue_or_organ_of_origin,year_of_diagnosis,treatment_or_therapy,time
+001cef41-ff86-4d3f-a140-a647ac4b10a1,60,female,white,0.0,22279,M0,N0 (mol+),Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,337.0
+001cef41-ff86-4d3f-a140-a647ac4b10a1,60,female,white,0.0,22279,M0,N0 (mol+),Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,337.0
+0045349c-69d9-4306-a403-c9c1fa836644,70,female,white,0.0,25833,M0,N0,Stage I,T1c,6th,8200/3,Adenoid cystic carcinoma,no,No,"Breast, NOS",2008,not reported,259.0
+0045349c-69d9-4306-a403-c9c1fa836644,70,female,white,0.0,25833,M0,N0,Stage I,T1c,6th,8200/3,Adenoid cystic carcinoma,no,No,"Breast, NOS",2008,not reported,259.0
+00807dae-9f4a-4fd1-aac2-82eb11bf2afb,50,female,white,0.0,18345,M0,N1mi,Stage IIB,T2,6th,8401/3,Apocrine adenocarcinoma,no,No,"Breast, NOS",2005,no,3102.0
+00807dae-9f4a-4fd1-aac2-82eb11bf2afb,50,female,white,0.0,18345,M0,N1mi,Stage IIB,T2,6th,8401/3,Apocrine adenocarcinoma,no,No,"Breast, NOS",2005,yes,3102.0
+00a2d166-78c9-4687-a195-3d6315c27574,56,female,white,0.0,20713,M0,N0,Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,5.0
+00a2d166-78c9-4687-a195-3d6315c27574,56,female,white,0.0,20713,M0,N0,Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,5.0
+00b11ca8-8540-4a3d-b602-ec754b00230b,61,female,white,0.0,22497,MX,N0 (i-),Stage IA,T1c,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2012,yes,759.0
+00b11ca8-8540-4a3d-b602-ec754b00230b,61,female,white,0.0,22497,MX,N0 (i-),Stage IA,T1c,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2012,no,759.0
+011b9b2d-ebe5-42bf-9662-d922faccc7a1,71,female,white,0.0,26274,MX,N1a,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2010,yes,954.0
+011b9b2d-ebe5-42bf-9662-d922faccc7a1,71,female,white,0.0,26274,MX,N1a,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2010,yes,954.0
+01263518-5f7c-49dc-8d7e-84b0c03a6a63,76,female,not reported,0.0,27942,M1,NX,Stage IV,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,304.0
+01263518-5f7c-49dc-8d7e-84b0c03a6a63,76,female,not reported,0.0,27942,M1,NX,Stage IV,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,304.0
+0130d616-885e-4a6c-9d03-2f17dd692a05,74,female,white,0.0,27106,MX,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,503.0
+0130d616-885e-4a6c-9d03-2f17dd692a05,74,female,white,0.0,27106,MX,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,503.0
+01674b2c-5cf2-478f-84a1-f69c39f47bd4,59,female,white,0.0,21750,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,915.0
+01674b2c-5cf2-478f-84a1-f69c39f47bd4,59,female,white,0.0,21750,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,915.0
+016caf42-4e19-4444-ab5d-6cf1e76c4afa,61,female,white,0.0,22340,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2002,yes,3248.0
+016caf42-4e19-4444-ab5d-6cf1e76c4afa,61,female,white,0.0,22340,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2002,yes,3248.0
+01b9f68b-4de4-4374-b4f2-8a0685e18153,88,female,white,0.0,32375,MX,N1mi,Stage IB,T1c,7th,9020/3,"Phyllodes tumor, malignant",yes,No,"Breast, NOS",2012,no,442.0
+01b9f68b-4de4-4374-b4f2-8a0685e18153,88,female,white,0.0,32375,MX,N1mi,Stage IB,T1c,7th,9020/3,"Phyllodes tumor, malignant",yes,No,"Breast, NOS",2012,no,442.0
+01eef340-598c-4205-a990-cec190ac2ca5,40,female,white,0.0,14669,M0,N1b,Stage IIIA,T3,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,yes,4285.0
+01eef340-598c-4205-a990-cec190ac2ca5,40,female,white,0.0,14669,M0,N1b,Stage IIIA,T3,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,yes,4285.0
+01f50abf-fc15-446e-9d07-edeecc545a32,58,female,white,0.0,21348,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,640.0
+01f50abf-fc15-446e-9d07-edeecc545a32,58,female,white,0.0,21348,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,640.0
+029ce650-5e5a-4100-8596-cd94300e7ef5,44,female,black or african american,0.0,16195,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1179.0
+029ce650-5e5a-4100-8596-cd94300e7ef5,44,female,black or african american,0.0,16195,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1179.0
+02bbb632-0f7f-439d-b8f0-c86a06237424,65,female,white,0.0,23851,MX,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1234.0
+02bbb632-0f7f-439d-b8f0-c86a06237424,65,female,white,0.0,23851,MX,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,no,1234.0
+02bed00f-bef7-4fb7-b243-540354990e45,55,female,american indian or alaska native,0.0,20227,M0,N3,Stage IIIC,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,521.0
+02bed00f-bef7-4fb7-b243-540354990e45,55,female,american indian or alaska native,0.0,20227,M0,N3,Stage IIIC,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,521.0
+02bf5203-f9cd-4c5a-97b4-e5584dc22325,61,female,white,0.0,22284,M0,N0 (i+),Stage IIA,T2,,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,680.0
+02bf5203-f9cd-4c5a-97b4-e5584dc22325,61,female,white,0.0,22284,M0,N0 (i+),Stage IIA,T2,,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,680.0
+02e6f999-24f2-4ad2-9b92-df3ee2b082e5,59,female,white,0.0,21898,M0,N2a,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,480.0
+02e6f999-24f2-4ad2-9b92-df3ee2b082e5,59,female,white,0.0,21898,M0,N2a,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,480.0
+02f5ae33-a563-4ecb-9e33-dfa500a44931,61,female,not reported,0.0,22373,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2009,yes,546.0
+02f5ae33-a563-4ecb-9e33-dfa500a44931,61,female,not reported,0.0,22373,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2009,yes,546.0
+03565036-b6d3-432f-8d9a-7099818e0788,64,female,white,0.0,23404,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1547.0
+03565036-b6d3-432f-8d9a-7099818e0788,64,female,white,0.0,23404,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1547.0
+035cb359-eac3-484a-9e88-3ddc739440a3,62,female,white,0.0,22833,M0,N0,Stage I,T1b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2156.0
+035cb359-eac3-484a-9e88-3ddc739440a3,62,female,white,0.0,22833,M0,N0,Stage I,T1b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2156.0
+03ab1e9f-4918-404d-b178-3a4fd929c5e8,34,female,asian,0.0,12729,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,379.0
+03ab1e9f-4918-404d-b178-3a4fd929c5e8,34,female,asian,0.0,12729,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,379.0
+03c143e0-d8a1-4d60-a4a3-df0501fc6b6e,70,female,white,0.0,25714,M0,N2,Stage IIIA,T1c,7th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2010,yes,1059.0
+03c143e0-d8a1-4d60-a4a3-df0501fc6b6e,70,female,white,0.0,25714,M0,N2,Stage IIIA,T1c,7th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2010,no,1059.0
+03da7a65-fa2f-42cb-a709-5fe8736f21d3,57,female,white,0.0,20861,MX,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,Yes,"Breast, NOS",2010,no,643.0
+03da7a65-fa2f-42cb-a709-5fe8736f21d3,57,female,white,0.0,20861,MX,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,Yes,"Breast, NOS",2010,yes,643.0
+045c13ef-3db7-4adf-b0a3-23338f0479f3,49,female,black or african american,1.0,18014,M0,N1,Stage IIA,T1c,3rd,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1990,no,991.0
+045c13ef-3db7-4adf-b0a3-23338f0479f3,49,female,black or african american,1.0,18014,M0,N1,Stage IIA,T1c,3rd,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1990,yes,991.0
+048549cf-d0a5-4743-a0a1-2004f7cc2b08,46,female,black or african american,0.0,16983,MX,N2a,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,987.0
+048549cf-d0a5-4743-a0a1-2004f7cc2b08,46,female,black or african american,0.0,16983,MX,N2a,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,987.0
+0491063c-14a7-4104-8002-1459126332f3,63,female,white,1.0,23150,M0,N1,Stage IIIB,T4,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1994,yes,571.0
+0491063c-14a7-4104-8002-1459126332f3,63,female,white,1.0,23150,M0,N1,Stage IIIB,T4,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1994,yes,571.0
+04af44fc-c487-4005-b3cb-cb64815824a2,66,female,white,0.0,24322,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2001,yes,5042.0
+04af44fc-c487-4005-b3cb-cb64815824a2,66,female,white,0.0,24322,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2001,no,5042.0
+05135396-df5c-49db-b34e-f4add5b65a2b,80,female,white,1.0,29529,M0,N1b,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,not reported,2534.0
+05135396-df5c-49db-b34e-f4add5b65a2b,80,female,white,1.0,29529,M0,N1b,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,not reported,2534.0
+05506f4c-e701-4a9d-ae06-97f066aade43,62,female,white,0.0,22798,M0,N0,Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,10.0
+05506f4c-e701-4a9d-ae06-97f066aade43,62,female,white,0.0,22798,M0,N0,Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,10.0
+058dcb78-bed1-40c3-a6c2-a0cc40065531,37,female,white,0.0,13680,M0,N1mi,Stage IB,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1516.0
+058dcb78-bed1-40c3-a6c2-a0cc40065531,37,female,white,0.0,13680,M0,N1mi,Stage IB,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1516.0
+05af737d-89aa-49b6-97b2-28b8ac8bd2cf,79,female,white,0.0,28876,MX,N1,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,530.0
+05af737d-89aa-49b6-97b2-28b8ac8bd2cf,79,female,white,0.0,28876,MX,N1,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,530.0
+0685edd2-ce1c-4e0e-8dda-393139af4223,31,female,white,1.0,11354,M0,N0 (i-),Stage I,T1c,6th,8502/3,Secretory carcinoma of breast,no,No,"Breast, NOS",2001,yes,1793.0
+0685edd2-ce1c-4e0e-8dda-393139af4223,31,female,white,1.0,11354,M0,N0 (i-),Stage I,T1c,6th,8502/3,Secretory carcinoma of breast,no,No,"Breast, NOS",2001,no,1793.0
+06ef6e83-5583-45b9-a0bd-edea68943083,72,female,black or african american,0.0,26399,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2011,yes,1208.0
+06ef6e83-5583-45b9-a0bd-edea68943083,72,female,black or african american,0.0,26399,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2011,yes,1208.0
+0741b5db-4405-42ba-b63a-c6ee4f341480,79,female,white,1.0,28940,M0,N0,Stage IIA,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2000,no,538.0
+0741b5db-4405-42ba-b63a-c6ee4f341480,79,female,white,1.0,28940,M0,N0,Stage IIA,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2000,no,538.0
+074e8b06-3929-4896-9263-3b80ad6a355b,61,female,white,0.0,22587,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2976.0
+074e8b06-3929-4896-9263-3b80ad6a355b,61,female,white,0.0,22587,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2976.0
+0772cdbe-8b0d-452b-8df1-bd70d1306363,46,female,white,0.0,16911,M0,N0 (i-),Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,759.0
+0772cdbe-8b0d-452b-8df1-bd70d1306363,46,female,white,0.0,16911,M0,N0 (i-),Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,759.0
+077506ea-8f11-405d-bb8e-3c9924fe54d0,68,female,white,0.0,25089,M0,N3,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,1013.0
+077506ea-8f11-405d-bb8e-3c9924fe54d0,68,female,white,0.0,25089,M0,N3,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,1013.0
+0807435a-e75e-4e04-8e45-ed0cd49a841a,51,female,white,0.0,18748,M0,N0 (i-),Stage IIA,T2,,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",1992,no,8391.0
+0807435a-e75e-4e04-8e45-ed0cd49a841a,51,female,white,0.0,18748,M0,N0 (i-),Stage IIA,T2,,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",1992,yes,8391.0
+08306ede-e74b-4be9-b768-7fd98647b6ac,50,female,white,0.0,18334,M0,N0 (i-),Stage IIB,T3,,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,575.0
+08306ede-e74b-4be9-b768-7fd98647b6ac,50,female,white,0.0,18334,M0,N0 (i-),Stage IIB,T3,,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,575.0
+084c6aec-94f7-4090-8f3f-59fa9e89721a,76,female,white,0.0,28084,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1051.0
+084c6aec-94f7-4090-8f3f-59fa9e89721a,76,female,white,0.0,28084,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1051.0
+08740d7f-5a5e-4dfa-bd48-7fbf228a7a28,50,female,black or african american,0.0,18584,M0,N1b,Stage II,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,yes,6292.0
+08740d7f-5a5e-4dfa-bd48-7fbf228a7a28,50,female,black or african american,0.0,18584,M0,N1b,Stage II,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,yes,6292.0
+08da7c4c-3067-4bcf-9d7a-78566df72e69,61,female,black or african american,0.0,22449,M0,N0 (i-),Stage X,TX,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1989,no,7777.0
+08da7c4c-3067-4bcf-9d7a-78566df72e69,61,female,black or african american,0.0,22449,M0,N0 (i-),Stage X,TX,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1989,yes,7777.0
+08de63a2-7b76-43c3-80dc-df748b1d81bc,45,female,white,0.0,16458,MX,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,554.0
+08de63a2-7b76-43c3-80dc-df748b1d81bc,45,female,white,0.0,16458,MX,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,554.0
+0930e97a-72ea-4bd5-b2f0-50c76af695f3,44,female,white,0.0,16109,M0,N2a,Stage IIIA,T1c,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2019.0
+0930e97a-72ea-4bd5-b2f0-50c76af695f3,44,female,white,0.0,16109,M0,N2a,Stage IIIA,T1c,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2019.0
+095c7985-3842-494f-b591-706ad1cd2133,29,female,white,0.0,10616,M0,N0 (i-),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1866.0
+095c7985-3842-494f-b591-706ad1cd2133,29,female,white,0.0,10616,M0,N0 (i-),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,no,1866.0
+09765b0a-94f6-47d2-af56-93368084ac3a,66,female,white,0.0,24242,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2009,yes,1165.0
+09765b0a-94f6-47d2-af56-93368084ac3a,66,female,white,0.0,24242,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2009,yes,1165.0
+09a5e9fd-d816-4f8c-baa9-0e40ba607b16,49,female,black or african american,0.0,18161,MX,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,594.0
+09a5e9fd-d816-4f8c-baa9-0e40ba607b16,49,female,black or african american,0.0,18161,MX,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,594.0
+09c2bc35-c21f-4aa4-ac30-0d8db02ad811,83,female,not reported,0.0,30528,M0,N2a,Stage IIIB,T4b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,761.0
+09c2bc35-c21f-4aa4-ac30-0d8db02ad811,83,female,not reported,0.0,30528,M0,N2a,Stage IIIB,T4b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,761.0
+09d6e904-7184-4788-8a19-04f8c46cb13f,53,female,white,0.0,19570,M0,N1a,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2013,yes,287.0
+09d6e904-7184-4788-8a19-04f8c46cb13f,53,female,white,0.0,19570,M0,N1a,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2013,no,287.0
+0a017f15-1c6b-45e7-8d55-e0a71df1b2e8,59,female,not reported,0.0,21641,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,Yes,"Breast, NOS",2008,yes,1004.0
+0a017f15-1c6b-45e7-8d55-e0a71df1b2e8,59,female,not reported,0.0,21641,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,Yes,"Breast, NOS",2008,yes,1004.0
+0a229f95-0ea1-4d63-953e-74f5ec2f3028,59,female,white,0.0,21831,M0,N1a,Stage IIIA,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2190.0
+0a229f95-0ea1-4d63-953e-74f5ec2f3028,59,female,white,0.0,21831,M0,N1a,Stage IIIA,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2190.0
+0a2a3529-f645-4967-9a58-89ee20b8bb62,40,female,white,0.0,14894,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,630.0
+0a2a3529-f645-4967-9a58-89ee20b8bb62,40,female,white,0.0,14894,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,630.0
+0adf59c6-581a-475d-a2f4-40aa40060b5b,68,female,not reported,0.0,25110,MX,N0,,T1c,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,579.0
+0adf59c6-581a-475d-a2f4-40aa40060b5b,68,female,not reported,0.0,25110,MX,N0,,T1c,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,579.0
+0b0f9938-ce1e-4814-8821-0132d137eb9e,54,female,white,0.0,20077,M0,N1a,Stage IIB,T2,7th,8524/3,Infiltrating lobular mixed with other types of carcinoma,no,No,Upper-inner quadrant of breast,2013,yes,404.0
+0b0f9938-ce1e-4814-8821-0132d137eb9e,54,female,white,0.0,20077,M0,N1a,Stage IIB,T2,7th,8524/3,Infiltrating lobular mixed with other types of carcinoma,no,No,Upper-inner quadrant of breast,2013,no,404.0
+0b172e29-6166-4863-803d-a0a010887c11,71,female,white,0.0,26269,M0,N1a,Stage IIIB,T4,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1993,yes,4929.0
+0b172e29-6166-4863-803d-a0a010887c11,71,female,white,0.0,26269,M0,N1a,Stage IIIB,T4,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1993,no,4929.0
+0b23b5fe-6c7e-4297-bc55-f93fcb830ac4,41,female,white,0.0,15122,M0,N3a,Stage IIIC,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,307.0
+0b23b5fe-6c7e-4297-bc55-f93fcb830ac4,41,female,white,0.0,15122,M0,N3a,Stage IIIC,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,307.0
+0bc5744c-5fa3-45bb-87d0-70a02068b392,30,female,black or african american,0.0,11204,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2041.0
+0bc5744c-5fa3-45bb-87d0-70a02068b392,30,female,black or african american,0.0,11204,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2041.0
+0bf6e772-1aa1-4f54-9a50-c1414e2f22f3,49,female,white,0.0,18053,M0,N1,Stage II,T1,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,no,1935.0
+0bf6e772-1aa1-4f54-9a50-c1414e2f22f3,49,female,white,0.0,18053,M0,N1,Stage II,T1,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1935.0
+0c1023c0-d2ce-4940-8047-7642f1dc3965,55,female,white,0.0,20448,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,806.0
+0c1023c0-d2ce-4940-8047-7642f1dc3965,55,female,white,0.0,20448,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,806.0
+0c23c380-363c-474d-b64c-b47f612a8225,50,female,asian,0.0,,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,345.0
+0c23c380-363c-474d-b64c-b47f612a8225,50,female,asian,0.0,,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,345.0
+0cf0d67c-2f7f-42a6-94f3-407d0ec46c88,63,female,white,0.0,23284,M0,N0,Stage IIB,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,no,890.0
+0cf0d67c-2f7f-42a6-94f3-407d0ec46c88,63,female,white,0.0,23284,M0,N0,Stage IIB,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,no,890.0
+0d03055c-186b-418a-b614-e2035757bc3b,77,female,white,0.0,28178,M0,N0,Stage IA,T1c,7th,8503/3,Intraductal papillary adenocarcinoma with invasion,no,No,"Breast, NOS",2010,no,371.0
+0d03055c-186b-418a-b614-e2035757bc3b,77,female,white,0.0,28178,M0,N0,Stage IA,T1c,7th,8503/3,Intraductal papillary adenocarcinoma with invasion,no,No,"Breast, NOS",2010,yes,371.0
+0d146997-cfdc-4587-888c-e876fc455c80,49,female,white,0.0,18060,M0,N3a,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,not reported,222.0
+0d146997-cfdc-4587-888c-e876fc455c80,49,female,white,0.0,18060,M0,N3a,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,not reported,222.0
+0dc337fa-da8b-42c4-b9a7-fb76d81c161f,50,female,white,0.0,18401,MX,N1,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,1196.0
+0dc337fa-da8b-42c4-b9a7-fb76d81c161f,50,female,white,0.0,18401,MX,N1,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,1196.0
+0dca98b0-f43e-45b6-9a02-00092c78678c,72,female,white,0.0,26588,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,397.0
+0dca98b0-f43e-45b6-9a02-00092c78678c,72,female,white,0.0,26588,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,397.0
+0dd8dbc1-c48b-4e7c-b401-57101f724967,67,female,black or african american,0.0,24813,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,421.0
+0dd8dbc1-c48b-4e7c-b401-57101f724967,67,female,black or african american,0.0,24813,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,421.0
+0e1d0d46-7a7b-4538-95dd-b9fc20a15aec,53,female,white,0.0,19627,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1133.0
+0e1d0d46-7a7b-4538-95dd-b9fc20a15aec,53,female,white,0.0,19627,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1133.0
+0ec70e40-07df-461d-8ff9-351240a0d454,62,female,black or african american,0.0,22966,M0,N0,Stage IIA,T2,7th,8010/3,"Carcinoma, NOS",no,No,"Breast, NOS",2012,yes,368.0
+0ec70e40-07df-461d-8ff9-351240a0d454,62,female,black or african american,0.0,22966,M0,N0,Stage IIA,T2,7th,8010/3,"Carcinoma, NOS",no,No,"Breast, NOS",2012,yes,368.0
+0ed9ad26-7fdc-4d75-93f9-d029eee94993,61,female,white,0.0,22380,M0,N1a,Stage IIB,T2,6th,8507/3,Intraductal micropapillary carcinoma,no,No,"Breast, NOS",2006,not reported,434.0
+0ed9ad26-7fdc-4d75-93f9-d029eee94993,61,female,white,0.0,22380,M0,N1a,Stage IIB,T2,6th,8507/3,Intraductal micropapillary carcinoma,no,No,"Breast, NOS",2006,not reported,434.0
+0f64edec-0f1f-4025-8a53-75f9534f7828,69,female,white,0.0,25289,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1247.0
+0f64edec-0f1f-4025-8a53-75f9534f7828,69,female,white,0.0,25289,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1247.0
+0f7ab21b-1fd0-45e0-9a47-17c4691eb84f,34,female,white,0.0,12671,M0,N1,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,428.0
+0f7ab21b-1fd0-45e0-9a47-17c4691eb84f,34,female,white,0.0,12671,M0,N1,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,428.0
+0fe1419e-a005-407c-8ae7-15c4c1579539,51,female,white,0.0,18788,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1025.0
+0fe1419e-a005-407c-8ae7-15c4c1579539,51,female,white,0.0,18788,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1025.0
+1026e0bf-5640-4fa5-b65f-4f11e8e76b18,48,male,white,0.0,17708,M0,N3a,Stage IIIC,T2,7th,8507/3,Intraductal micropapillary carcinoma,no,No,"Breast, NOS",2010,yes,496.0
+1026e0bf-5640-4fa5-b65f-4f11e8e76b18,48,male,white,0.0,17708,M0,N3a,Stage IIIC,T2,7th,8507/3,Intraductal micropapillary carcinoma,no,No,"Breast, NOS",2010,yes,496.0
+10c829ec-fd66-49c4-8afe-ad3ae567372c,75,female,black or african american,1.0,27731,M0,N0 (i+),Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,no,320.0
+10c829ec-fd66-49c4-8afe-ad3ae567372c,75,female,black or african american,1.0,27731,M0,N0 (i+),Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,no,320.0
+10c9be1e-2cc0-45e4-8d2c-c013ea63ef05,55,female,white,0.0,20352,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,210.0
+10c9be1e-2cc0-45e4-8d2c-c013ea63ef05,55,female,white,0.0,20352,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,210.0
+1111fb30-46ce-4722-98da-ec9ba2323d90,69,female,black or african american,1.0,25362,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2002,no,2483.0
+1111fb30-46ce-4722-98da-ec9ba2323d90,69,female,black or african american,1.0,25362,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2002,yes,2483.0
+1133b8a9-6b11-4511-b70a-f200e3b8b5db,69,female,white,1.0,25490,M0,N0 (i-),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1812.0
+1133b8a9-6b11-4511-b70a-f200e3b8b5db,69,female,white,1.0,25490,M0,N0 (i-),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1812.0
+115bc72c-116f-40c1-be9b-e3dd7650efae,62,female,white,0.0,22683,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,575.0
+115bc72c-116f-40c1-be9b-e3dd7650efae,62,female,white,0.0,22683,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,575.0
+1174f6e4-ffbe-4e59-a000-8d861c968369,34,female,asian,0.0,12443,M0,N2,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,2442.0
+1174f6e4-ffbe-4e59-a000-8d861c968369,34,female,asian,0.0,12443,M0,N2,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,2442.0
+124b693c-77dc-4fa8-b703-54e8b5054a92,56,female,not reported,0.0,20483,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",,not reported,79.0
+124b693c-77dc-4fa8-b703-54e8b5054a92,56,female,not reported,0.0,20483,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",,yes,79.0
+125b0a9a-6cbe-4207-9178-e7ff03487e87,43,female,white,0.0,15977,M0,N2,Stage IIIA,T3,6th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2005,yes,3607.0
+125b0a9a-6cbe-4207-9178-e7ff03487e87,43,female,white,0.0,15977,M0,N2,Stage IIIA,T3,6th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2005,yes,3607.0
+1285eb55-415c-494a-aa58-936f0427cdd0,75,female,black or african american,0.0,27684,M0,N2a,Stage IIIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,2033.0
+1285eb55-415c-494a-aa58-936f0427cdd0,75,female,black or african american,0.0,27684,M0,N2a,Stage IIIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,2033.0
+128d198e-9b22-427c-90db-3714455f3a17,66,female,white,1.0,24235,M1,N3,Stage IV,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,255.0
+128d198e-9b22-427c-90db-3714455f3a17,66,female,white,1.0,24235,M1,N3,Stage IV,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,255.0
+12d31787-e54d-4729-ace8-9141043c92b8,62,female,white,0.0,22922,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,3017.0
+12d31787-e54d-4729-ace8-9141043c92b8,62,female,white,0.0,22922,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,3017.0
+1347c23d-8d6e-4c15-9461-640249838c96,50,female,black or african american,0.0,18520,MX,N0 (i-),Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,489.0
+1347c23d-8d6e-4c15-9461-640249838c96,50,female,black or african american,0.0,18520,MX,N0 (i-),Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,489.0
+13b860c3-8048-4dc9-9eb0-7480bc660837,52,female,white,0.0,19309,M0,N0,Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,10.0
+13b860c3-8048-4dc9-9eb0-7480bc660837,52,female,white,0.0,19309,M0,N0,Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,10.0
+13ca97a1-75bb-4a49-b8c3-181e5b2c9e86,53,female,black or african american,0.0,19679,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3316.0
+13ca97a1-75bb-4a49-b8c3-181e5b2c9e86,53,female,black or african american,0.0,19679,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3316.0
+1402082d-25c9-4148-8a1e-f58450b706bb,74,female,white,1.0,27047,M0,N0 (i-),Stage IA,T1c,,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",1997,no,3926.0
+1402082d-25c9-4148-8a1e-f58450b706bb,74,female,white,1.0,27047,M0,N0 (i-),Stage IA,T1c,,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",1997,no,3926.0
+14267783-5624-4fe5-ba81-9d67f1017474,60,female,white,0.0,22199,M0,N0 (i-),Stage IIB,T3,,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,476.0
+14267783-5624-4fe5-ba81-9d67f1017474,60,female,white,0.0,22199,M0,N0 (i-),Stage IIB,T3,,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,476.0
+14b95463-2108-4921-afc2-e29eef52b18f,56,female,white,1.0,20482,M0,N2a,Stage IIIB,T4b,,8500/3,"Infiltrating duct carcinoma, NOS",no,Yes,"Breast, NOS",2008,yes,723.0
+14b95463-2108-4921-afc2-e29eef52b18f,56,female,white,1.0,20482,M0,N2a,Stage IIIB,T4b,,8500/3,"Infiltrating duct carcinoma, NOS",no,Yes,"Breast, NOS",2008,yes,723.0
+14d1d84e-99e1-41ad-8892-3b4da3d4f948,69,female,white,1.0,25558,M0,N1b,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,not reported,1673.0
+14d1d84e-99e1-41ad-8892-3b4da3d4f948,69,female,white,1.0,25558,M0,N1b,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,not reported,1673.0
+1502c7d7-1535-4e56-9f34-30623acd50d5,67,female,white,0.0,24791,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,1326.0
+1502c7d7-1535-4e56-9f34-30623acd50d5,67,female,white,0.0,24791,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,1326.0
+151f3677-6854-4265-9126-d92c646c67ae,57,female,black or african american,1.0,21047,MX,NX,Stage X,TX,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1993,no,2373.0
+151f3677-6854-4265-9126-d92c646c67ae,57,female,black or african american,1.0,21047,MX,NX,Stage X,TX,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1993,no,2373.0
+1549dc64-3dab-43fc-96e9-b07d520957e1,40,female,white,0.0,14731,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,488.0
+1549dc64-3dab-43fc-96e9-b07d520957e1,40,female,white,0.0,14731,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,488.0
+1557183c-aedd-4df6-b98a-3654667f7b69,84,female,not reported,0.0,30711,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2008,yes,1371.0
+1557183c-aedd-4df6-b98a-3654667f7b69,84,female,not reported,0.0,30711,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2008,no,1371.0
+157ec9e0-ca6e-4da1-9233-f976cf0db433,64,female,white,1.0,23646,M1,N3,Stage IV,T3,3rd,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1992,yes,3941.0
+157ec9e0-ca6e-4da1-9233-f976cf0db433,64,female,white,1.0,23646,M1,N3,Stage IV,T3,3rd,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1992,no,3941.0
+15ff4b02-bb69-4d24-8a07-b82f428e428d,62,female,white,0.0,22997,M0,N0 (i+),Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,322.0
+15ff4b02-bb69-4d24-8a07-b82f428e428d,62,female,white,0.0,22997,M0,N0 (i+),Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,322.0
+161917b8-88ad-407b-ade6-d6b98478b359,42,female,white,0.0,15504,M0,N1,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1232.0
+161917b8-88ad-407b-ade6-d6b98478b359,42,female,white,0.0,15504,M0,N1,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1232.0
+16368c32-2118-4fcf-8693-6c89995e49d8,52,female,white,0.0,19250,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,635.0
+16368c32-2118-4fcf-8693-6c89995e49d8,52,female,white,0.0,19250,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,635.0
+16a8d916-ad46-4690-b1a5-3b2b323f4336,45,female,white,1.0,16705,MX,NX,Stage X,T1c,4th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",1996,no,2573.0
+16a8d916-ad46-4690-b1a5-3b2b323f4336,45,female,white,1.0,16705,MX,NX,Stage X,T1c,4th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",1996,yes,2573.0
+16fc3677-0393-4ed1-ad3f-c8355f056369,63,female,white,0.0,23225,M1,N0,Stage IV,T2,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2010,yes,1471.0
+16fc3677-0393-4ed1-ad3f-c8355f056369,63,female,white,0.0,23225,M1,N0,Stage IV,T2,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2010,no,1471.0
+174850b4-5ec2-462b-a890-89bd1716b3c2,57,female,black or african american,0.0,21024,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1546.0
+174850b4-5ec2-462b-a890-89bd1716b3c2,57,female,black or african american,0.0,21024,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,1546.0
+1783cac1-253a-40af-a9ac-48dfb20e1ab8,47,female,white,1.0,17172,M1,N1b,Stage IV,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,not reported,1034.0
+1783cac1-253a-40af-a9ac-48dfb20e1ab8,47,female,white,1.0,17172,M1,N1b,Stage IV,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,not reported,1034.0
+178b2c48-c07d-422e-ae17-8bcfd996ad51,48,female,white,1.0,17624,M1,N1,,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1994,yes,7455.0
+178b2c48-c07d-422e-ae17-8bcfd996ad51,48,female,white,1.0,17624,M1,N1,,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1994,yes,7455.0
+17baef7c-d97d-4b98-ab53-503ef856523d,37,female,white,0.0,13836,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1139.0
+17baef7c-d97d-4b98-ab53-503ef856523d,37,female,white,0.0,13836,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,1139.0
+17c1d42c-cb84-4655-a4cd-b54bae17ecaf,58,female,white,0.0,21514,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,275.0
+17c1d42c-cb84-4655-a4cd-b54bae17ecaf,58,female,white,0.0,21514,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,275.0
+17ca61a2-607a-45ff-88fa-ef72e80bf891,77,female,white,0.0,28233,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,727.0
+17ca61a2-607a-45ff-88fa-ef72e80bf891,77,female,white,0.0,28233,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,727.0
+17d9e646-6ab3-40b3-a0bc-2c834d3c3213,36,female,white,0.0,13467,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,yes,4052.0
+17d9e646-6ab3-40b3-a0bc-2c834d3c3213,36,female,white,0.0,13467,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,yes,4052.0
+17f275c1-a0d4-487d-8f02-ea279584b4cd,52,female,white,0.0,19028,M0,N0,Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1728.0
+17f275c1-a0d4-487d-8f02-ea279584b4cd,52,female,white,0.0,19028,M0,N0,Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,1728.0
+182c4bdf-2c58-4303-b034-459da86b9d90,63,female,white,0.0,23057,M0,N2,Stage IIIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,no,725.0
+182c4bdf-2c58-4303-b034-459da86b9d90,63,female,white,0.0,23057,M0,N2,Stage IIIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,no,725.0
+189e1f27-7738-413a-a4d4-97d41d592a13,46,female,black or african american,0.0,16971,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,996.0
+189e1f27-7738-413a-a4d4-97d41d592a13,46,female,black or african american,0.0,16971,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,996.0
+18d35983-ea6a-4b70-a209-9bef37595956,48,female,white,0.0,17774,M0,N0 (i-),Stage IA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1534.0
+18d35983-ea6a-4b70-a209-9bef37595956,48,female,white,0.0,17774,M0,N0 (i-),Stage IA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1534.0
+18eb4dfc-556f-4bf3-a411-4780209ed1e0,53,female,white,0.0,19479,M0,N1a,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1203.0
+18eb4dfc-556f-4bf3-a411-4780209ed1e0,53,female,white,0.0,19479,M0,N1a,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1203.0
+19015644-9c17-4ae7-a656-0fe8623c04ae,55,female,white,1.0,20239,M0,N2a,Stage IIIA,T2,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2013,yes,584.0
+19015644-9c17-4ae7-a656-0fe8623c04ae,55,female,white,1.0,20239,M0,N2a,Stage IIIA,T2,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2013,yes,584.0
+195b6731-6ae6-416e-a345-0eb8874a0ca2,59,female,white,0.0,21640,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,375.0
+195b6731-6ae6-416e-a345-0eb8874a0ca2,59,female,white,0.0,21640,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,375.0
+197428f7-bd77-4c5f-8119-87157b5c35b9,66,female,white,0.0,24155,M0,N0 (i-),Stage IA,T1c,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2002,yes,4354.0
+197428f7-bd77-4c5f-8119-87157b5c35b9,66,female,white,0.0,24155,M0,N0 (i-),Stage IA,T1c,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2002,yes,4354.0
+197741de-a098-4f04-bb37-8ea8b3bb39bc,58,female,black or african american,1.0,21230,MX,NX,Stage X,T1c,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,no,2965.0
+197741de-a098-4f04-bb37-8ea8b3bb39bc,58,female,black or african american,1.0,21230,MX,NX,Stage X,T1c,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,no,2965.0
+1a18974d-967c-4727-b42e-12ae7be66589,49,female,white,0.0,18038,M0,N1b,Stage IIB,T2,3rd,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1988,yes,8556.0
+1a18974d-967c-4727-b42e-12ae7be66589,49,female,white,0.0,18038,M0,N1b,Stage IIB,T2,3rd,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1988,no,8556.0
+1a679332-30a3-4495-a2e5-39d299e14333,71,female,black or african american,0.0,26141,M0,N1,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2013,yes,562.0
+1a679332-30a3-4495-a2e5-39d299e14333,71,female,black or african american,0.0,26141,M0,N1,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2013,yes,562.0
+1b4cfad1-e353-4411-97b6-2b7b9309e95e,90,female,white,0.0,32872,MX,N1,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2012,no,0.0
+1b4cfad1-e353-4411-97b6-2b7b9309e95e,90,female,white,0.0,32872,MX,N1,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2012,no,0.0
+1b703058-e596-45bc-80fe-8b98d545c2e2,62,female,white,1.0,22800,M0,N2,Stage III,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1649.0
+1b703058-e596-45bc-80fe-8b98d545c2e2,62,female,white,1.0,22800,M0,N2,Stage III,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1649.0
+1be375fe-5ae5-4e75-a729-69f86a661d9a,53,female,white,0.0,19607,M0,N0,Stage IIA,T2,7th,8211/3,Tubular adenocarcinoma,no,No,"Breast, NOS",2013,yes,767.0
+1be375fe-5ae5-4e75-a729-69f86a661d9a,53,female,white,0.0,19607,M0,N0,Stage IIA,T2,7th,8211/3,Tubular adenocarcinoma,no,No,"Breast, NOS",2013,yes,767.0
+1c3610f7-e0aa-48d7-9a27-0dbaf6e244f9,47,female,white,0.0,17474,M0,N0 (i+),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,no,2654.0
+1c3610f7-e0aa-48d7-9a27-0dbaf6e244f9,47,female,white,0.0,17474,M0,N0 (i+),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,yes,2654.0
+1c40b84e-a0e3-429f-a48c-21566cf881c0,51,female,white,0.0,18984,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,431.0
+1c40b84e-a0e3-429f-a48c-21566cf881c0,51,female,white,0.0,18984,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,431.0
+1cc30842-4a5b-4f07-b36f-5b84ceaa5662,58,female,white,0.0,21343,M0,N0,Stage IA,T1b,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,no,574.0
+1cc30842-4a5b-4f07-b36f-5b84ceaa5662,58,female,white,0.0,21343,M0,N0,Stage IA,T1b,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,574.0
+1d27253f-b036-44e7-a04d-8da5bbf57419,84,female,black or african american,1.0,30757,M0,N3a,Stage IIIC,T4b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,266.0
+1d27253f-b036-44e7-a04d-8da5bbf57419,84,female,black or african american,1.0,30757,M0,N3a,Stage IIIC,T4b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,266.0
+1d38d356-d126-4476-94d0-26616b9375b1,43,female,black or african american,0.0,15820,MX,N3,Stage IIIC,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1062.0
+1d38d356-d126-4476-94d0-26616b9375b1,43,female,black or african american,0.0,15820,MX,N3,Stage IIIC,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1062.0
+1d75e89d-4b01-443c-be54-749c7a667bf4,64,female,white,0.0,23395,MX,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,519.0
+1d75e89d-4b01-443c-be54-749c7a667bf4,64,female,white,0.0,23395,MX,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,519.0
+1dafdd64-527d-4d46-bbdf-7a97774f881b,63,female,white,0.0,23031,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,2236.0
+1dafdd64-527d-4d46-bbdf-7a97774f881b,63,female,white,0.0,23031,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,2236.0
+1e68e760-a4cf-4100-bf9c-e50fa8d126f6,54,female,white,1.0,19802,M0,N0 (i-),Stage I,T1c,4th,8201/3,"Cribriform carcinoma, NOS",no,No,"Breast, NOS",1996,no,3945.0
+1e68e760-a4cf-4100-bf9c-e50fa8d126f6,54,female,white,1.0,19802,M0,N0 (i-),Stage I,T1c,4th,8201/3,"Cribriform carcinoma, NOS",no,No,"Breast, NOS",1996,yes,3945.0
+1f601832-eee3-48fb-acf5-80c4a454f26e,72,female,white,1.0,26548,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2008,yes,991.0
+1f601832-eee3-48fb-acf5-80c4a454f26e,72,female,white,1.0,26548,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2008,no,991.0
+1f8f87cb-8a0b-474c-97fb-c71b4fd88d97,78,female,white,0.0,28660,M0,N1,Stage IIA,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",not reported,No,"Breast, NOS",2009,yes,541.0
+1f8f87cb-8a0b-474c-97fb-c71b4fd88d97,78,female,white,0.0,28660,M0,N1,Stage IIA,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",not reported,No,"Breast, NOS",2009,yes,541.0
+1f99e4d4-4e8b-4cc1-a129-227a2a82780e,60,female,white,0.0,22023,M0,N1,Stage IIIA,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2971.0
+1f99e4d4-4e8b-4cc1-a129-227a2a82780e,60,female,white,0.0,22023,M0,N1,Stage IIIA,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2971.0
+1fef9454-b3e8-4d9d-a9aa-aa1f1a32b80c,51,female,white,0.0,18771,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,1640.0
+1fef9454-b3e8-4d9d-a9aa-aa1f1a32b80c,51,female,white,0.0,18771,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1640.0
+1ff85ada-3cdd-4afb-b311-2c7befb52702,48,female,white,0.0,17637,MX,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2008,yes,1611.0
+1ff85ada-3cdd-4afb-b311-2c7befb52702,48,female,white,0.0,17637,MX,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2008,no,1611.0
+2021ed1f-dc75-4701-b8b8-1386466e4802,65,female,white,0.0,23972,M0,N2a,Stage IIIA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,702.0
+2021ed1f-dc75-4701-b8b8-1386466e4802,65,female,white,0.0,23972,M0,N2a,Stage IIIA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,702.0
+20e8106b-1290-4735-abe4-7621e08e3dc8,38,female,white,0.0,14175,M0,N3a,Stage IIIC,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,134.0
+20e8106b-1290-4735-abe4-7621e08e3dc8,38,female,white,0.0,14175,M0,N3a,Stage IIIC,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,134.0
+214a4507-d974-4b3e-8525-7408fccc6a0f,42,female,white,0.0,15593,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2559.0
+214a4507-d974-4b3e-8525-7408fccc6a0f,42,female,white,0.0,15593,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2559.0
+2192c1db-4718-4254-ba42-3ae7f30ad5a8,64,female,black or african american,0.0,23543,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,yes,2426.0
+2192c1db-4718-4254-ba42-3ae7f30ad5a8,64,female,black or african american,0.0,23543,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,yes,2426.0
+2199b7a1-bd47-4bb5-b36a-a3e291e3e259,60,female,white,0.0,22077,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1993,yes,8008.0
+2199b7a1-bd47-4bb5-b36a-a3e291e3e259,60,female,white,0.0,22077,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1993,yes,8008.0
+21ef1730-e5a7-47ce-b419-d000bb59ae15,80,female,white,1.0,29335,M0,N1c,Stage IIA,T1a,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2000,not reported,785.0
+21ef1730-e5a7-47ce-b419-d000bb59ae15,80,female,white,1.0,29335,M0,N1c,Stage IIA,T1a,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2000,not reported,785.0
+22b35927-1c3f-4f98-ba42-deafc56b677a,51,female,white,0.0,18741,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,1926.0
+22b35927-1c3f-4f98-ba42-deafc56b677a,51,female,white,0.0,18741,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1926.0
+22eaba28-be67-4730-9846-860bc1fca29a,54,female,not reported,0.0,19814,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,no,518.0
+22eaba28-be67-4730-9846-860bc1fca29a,54,female,not reported,0.0,19814,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,518.0
+233b02f3-c4f0-4a67-9db5-e68d5cdaccb6,72,female,white,1.0,26426,M0,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,Upper-outer quadrant of breast,2003,not reported,1563.0
+233b02f3-c4f0-4a67-9db5-e68d5cdaccb6,72,female,white,1.0,26426,M0,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,Upper-outer quadrant of breast,2003,not reported,1563.0
+2399caeb-ead2-4003-af38-809db4ac2e2b,84,female,not reported,0.0,30984,M0,N0,Stage IIB,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,31.0
+2399caeb-ead2-4003-af38-809db4ac2e2b,84,female,not reported,0.0,30984,M0,N0,Stage IIB,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,31.0
+23b7aaea-1119-4b10-aa1a-0ae255d2f2a6,74,female,white,0.0,27389,M0,N0,Stage I,T1c,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1318.0
+23b7aaea-1119-4b10-aa1a-0ae255d2f2a6,74,female,white,0.0,27389,M0,N0,Stage I,T1c,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2008,no,1318.0
+23c21dea-3713-408f-ba56-f7c586e9f206,63,female,white,0.0,23116,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,92.0
+23c21dea-3713-408f-ba56-f7c586e9f206,63,female,white,0.0,23116,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,92.0
+23c31c2e-336c-4878-a476-cf8d811b4875,65,female,black or african american,0.0,24075,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,no,586.0
+23c31c2e-336c-4878-a476-cf8d811b4875,65,female,black or african american,0.0,24075,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,586.0
+23dabeef-8e3c-44bc-9a12-a9522d17be5c,66,female,not reported,0.0,24230,M0,N0,Stage IIA,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1642.0
+23dabeef-8e3c-44bc-9a12-a9522d17be5c,66,female,not reported,0.0,24230,M0,N0,Stage IIA,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,no,1642.0
+23e7a78a-1d56-4ad1-9bb4-72ec0178aff2,83,female,white,0.0,30489,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,no,2383.0
+23e7a78a-1d56-4ad1-9bb4-72ec0178aff2,83,female,white,0.0,30489,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2383.0
+23f438bd-1dbb-4d46-972f-1e8e74ddbd37,61,female,white,0.0,22280,MX,N1a,Stage IIIA,T3,6th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2005,no,3287.0
+23f438bd-1dbb-4d46-972f-1e8e74ddbd37,61,female,white,0.0,22280,MX,N1a,Stage IIIA,T3,6th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2005,yes,3287.0
+24046547-d038-4616-b190-52ac93f4965f,74,female,white,0.0,27392,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1419.0
+24046547-d038-4616-b190-52ac93f4965f,74,female,white,0.0,27392,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1419.0
+241fffc8-4250-4cfa-b2e7-e68c33ae07dc,47,female,white,0.0,17523,M0,N1,Stage IIA,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3128.0
+241fffc8-4250-4cfa-b2e7-e68c33ae07dc,47,female,white,0.0,17523,M0,N1,Stage IIA,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3128.0
+24334ac1-28a3-4b61-b590-3f51e375b247,81,female,white,0.0,29751,M0,N1,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,178.0
+24334ac1-28a3-4b61-b590-3f51e375b247,81,female,white,0.0,29751,M0,N1,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,178.0
+2476dda9-da2a-4242-9642-b92b8b9b1c79,81,female,white,1.0,29907,M0,N1b,Stage IIIA,T3,4th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",1995,yes,2965.0
+2476dda9-da2a-4242-9642-b92b8b9b1c79,81,female,white,1.0,29907,M0,N1b,Stage IIIA,T3,4th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",1995,yes,2965.0
+2481a671-760b-428c-968d-42e25fd42ac5,66,female,white,0.0,24327,MX,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,no,471.0
+2481a671-760b-428c-968d-42e25fd42ac5,66,female,white,0.0,24327,MX,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,471.0
+24e39609-9645-43e5-960b-db5446eaea65,68,female,white,0.0,24999,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,591.0
+24e39609-9645-43e5-960b-db5446eaea65,68,female,white,0.0,24999,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,591.0
+2585edbd-3488-4100-a4ab-a161252a31ee,62,female,white,0.0,22900,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,403.0
+2585edbd-3488-4100-a4ab-a161252a31ee,62,female,white,0.0,22900,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,403.0
+26573441-eedb-4364-966c-e7f803deef19,54,female,white,0.0,19767,M0,N0,Stage I,T1b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,no,2197.0
+26573441-eedb-4364-966c-e7f803deef19,54,female,white,0.0,19767,M0,N0,Stage I,T1b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2197.0
+2680da86-c977-4611-b75f-df015283c023,64,female,white,0.0,23397,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1467.0
+2680da86-c977-4611-b75f-df015283c023,64,female,white,0.0,23397,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1467.0
+271404de-24e8-43f6-806b-fb510c1124c4,57,female,white,0.0,21183,M0,N1,Stage IIIB,T4b,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,yes,4233.0
+271404de-24e8-43f6-806b-fb510c1124c4,57,female,white,0.0,21183,M0,N1,Stage IIIB,T4b,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,yes,4233.0
+271e8024-a008-4bf0-9f6e-177f60096b1b,76,female,white,0.0,28013,M0,N0,Stage IIA,T2,6th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2009,yes,554.0
+271e8024-a008-4bf0-9f6e-177f60096b1b,76,female,white,0.0,28013,M0,N0,Stage IIA,T2,6th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2009,yes,554.0
+2779fa01-ac93-4e80-a997-3385f72172c3,71,female,not reported,0.0,25994,M0,N1,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,Yes,"Breast, NOS",2008,yes,1004.0
+2779fa01-ac93-4e80-a997-3385f72172c3,71,female,not reported,0.0,25994,M0,N1,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,Yes,"Breast, NOS",2008,yes,1004.0
+27b05b15-a44b-45ed-a6e3-e7d1ca488ea9,62,female,not reported,1.0,22858,M0,N3a,Stage IIIC,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,not reported,426.0
+27b05b15-a44b-45ed-a6e3-e7d1ca488ea9,62,female,not reported,1.0,22858,M0,N3a,Stage IIIC,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,not reported,426.0
+27ba717a-5cd8-440a-9345-4ae086f6efca,63,female,white,0.0,23327,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,912.0
+27ba717a-5cd8-440a-9345-4ae086f6efca,63,female,white,0.0,23327,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,912.0
+27c1c094-690b-4973-8900-a797ad88f98c,53,female,white,0.0,19591,M0,N3a,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,398.0
+27c1c094-690b-4973-8900-a797ad88f98c,53,female,white,0.0,19591,M0,N3a,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,398.0
+27dfb9d4-3a2c-44bc-9acf-8f638d3f3004,62,female,white,0.0,22714,M0,N1a,Stage IIA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,328.0
+27dfb9d4-3a2c-44bc-9acf-8f638d3f3004,62,female,white,0.0,22714,M0,N1a,Stage IIA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,328.0
+281f70c5-876f-44b3-84fb-f2302f85e74c,63,female,not reported,0.0,23164,M0,N2,Stage IIIA,T3,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,31.0
+281f70c5-876f-44b3-84fb-f2302f85e74c,63,female,not reported,0.0,23164,M0,N2,Stage IIIA,T3,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,31.0
+28911b97-42bf-4189-9961-522fc0aeebc6,80,female,white,0.0,29331,MX,N3a,Stage IIIC,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,620.0
+28911b97-42bf-4189-9961-522fc0aeebc6,80,female,white,0.0,29331,MX,N3a,Stage IIIC,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,no,620.0
+28e9048a-e540-42de-a1f4-4ef894fccc4c,49,female,white,0.0,18084,M0,N0,Stage IIB,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3172.0
+28e9048a-e540-42de-a1f4-4ef894fccc4c,49,female,white,0.0,18084,M0,N0,Stage IIB,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3172.0
+295cf595-4a29-46a3-a0c5-e5f08f947031,50,female,white,0.0,18514,M0,N2a,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,501.0
+295cf595-4a29-46a3-a0c5-e5f08f947031,50,female,white,0.0,18514,M0,N2a,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,501.0
+298a1710-deb4-4064-a0f2-da32d43aa217,44,female,asian,0.0,,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1476.0
+298a1710-deb4-4064-a0f2-da32d43aa217,44,female,asian,0.0,,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1476.0
+298d33da-15af-48cb-b30f-eaf54e7baa43,53,female,white,0.0,19596,M0,N2a,Stage IIIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,659.0
+298d33da-15af-48cb-b30f-eaf54e7baa43,53,female,white,0.0,19596,M0,N2a,Stage IIIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,659.0
+29df128d-ace2-40cf-88ee-3f6f2170f159,45,female,not reported,0.0,16742,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1277.0
+29df128d-ace2-40cf-88ee-3f6f2170f159,45,female,not reported,0.0,16742,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1277.0
+29fdc464-f216-4828-b456-829f71436e27,62,female,asian,0.0,22962,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1561.0
+29fdc464-f216-4828-b456-829f71436e27,62,female,asian,0.0,22962,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1561.0
+2a84997d-ccee-4f46-bea2-752534f26416,73,female,black or african american,0.0,27028,MX,N2a,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1309.0
+2a84997d-ccee-4f46-bea2-752534f26416,73,female,black or african american,0.0,27028,MX,N2a,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1309.0
+2ab1b35b-9e56-475c-ac9b-15ed0a422683,72,female,white,1.0,26299,MX,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,no,1275.0
+2ab1b35b-9e56-475c-ac9b-15ed0a422683,72,female,white,1.0,26299,MX,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,no,1275.0
+2b19a6b4-7a17-4452-b4aa-6fc18adc0c3c,34,female,white,0.0,12668,MX,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,606.0
+2b19a6b4-7a17-4452-b4aa-6fc18adc0c3c,34,female,white,0.0,12668,MX,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,606.0
+2b22db1d-54a1-4b9e-a86e-a174cf51d95c,55,female,white,0.0,20374,M0,N1c,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2612.0
+2b22db1d-54a1-4b9e-a86e-a174cf51d95c,55,female,white,0.0,20374,M0,N1c,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2612.0
+2b36853f-34d3-47c5-ba6a-e5a93233d2b1,56,female,white,0.0,20479,MX,N0,Stage IIB,T3,7th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2013,not reported,1.0
+2b36853f-34d3-47c5-ba6a-e5a93233d2b1,56,female,white,0.0,20479,MX,N0,Stage IIB,T3,7th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2013,not reported,1.0
+2bcacfd1-6a45-4b96-9b80-2ad569b1ab45,82,female,black or african american,0.0,30101,MX,N1a,Stage IIIA,T3,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2013,yes,574.0
+2bcacfd1-6a45-4b96-9b80-2ad569b1ab45,82,female,black or african american,0.0,30101,MX,N1a,Stage IIIA,T3,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2013,no,574.0
+2c04a2f5-321e-4dea-8e00-268325da65cb,75,female,not reported,0.0,27393,M0,N1a,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2007,yes,1614.0
+2c04a2f5-321e-4dea-8e00-268325da65cb,75,female,not reported,0.0,27393,M0,N1a,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2007,no,1614.0
+2c6adb12-380d-4710-a7e6-93d5a0e53289,63,female,white,0.0,23021,M0,N0 (i+),Stage IIB,T3,,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,769.0
+2c6adb12-380d-4710-a7e6-93d5a0e53289,63,female,white,0.0,23021,M0,N0 (i+),Stage IIB,T3,,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,no,769.0
+2c86c3ea-d926-4d39-a5ae-39ece4774287,42,female,black or african american,0.0,15625,M0,N0 (i-),Stage IIB,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1995,no,7106.0
+2c86c3ea-d926-4d39-a5ae-39ece4774287,42,female,black or african american,0.0,15625,M0,N0 (i-),Stage IIB,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1995,yes,7106.0
+2c90d5e3-ac8c-4c86-a06f-42ccc064eb49,81,female,white,0.0,29916,MX,N2a,Stage IIIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,466.0
+2c90d5e3-ac8c-4c86-a06f-42ccc064eb49,81,female,white,0.0,29916,MX,N2a,Stage IIIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,466.0
+2cb8c866-9296-4c70-a3ea-f9a9b707895c,73,female,not reported,0.0,26693,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,no,396.0
+2cb8c866-9296-4c70-a3ea-f9a9b707895c,73,female,not reported,0.0,26693,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,396.0
+2cbeadff-a8a3-4787-9d4e-f6b74c3ab5d9,51,female,white,0.0,18721,M0,N0 (i+),Stage IIB,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2142.0
+2cbeadff-a8a3-4787-9d4e-f6b74c3ab5d9,51,female,white,0.0,18721,M0,N0 (i+),Stage IIB,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2142.0
+2cf68894-168b-458b-af4f-53cad72989a8,44,female,white,0.0,16363,M0,N1a,Stage IIIA,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,765.0
+2cf68894-168b-458b-af4f-53cad72989a8,44,female,white,0.0,16363,M0,N1a,Stage IIIA,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,765.0
+2d0d7ff4-7866-4ae1-9cf1-a3c7f4cbe48d,61,female,white,0.0,22510,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,2362.0
+2d0d7ff4-7866-4ae1-9cf1-a3c7f4cbe48d,61,female,white,0.0,22510,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,2362.0
+2d29a4ac-98e7-4663-9dd6-5681bc32ac2e,55,female,black or african american,0.0,20401,M0,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1102.0
+2d29a4ac-98e7-4663-9dd6-5681bc32ac2e,55,female,black or african american,0.0,20401,M0,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1102.0
+2d4c778c-7f77-4f0a-8261-2086accf15fd,54,female,black or african american,1.0,19724,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,no,2911.0
+2d4c778c-7f77-4f0a-8261-2086accf15fd,54,female,black or african american,1.0,19724,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,2911.0
+2dc1cec9-925a-417f-9e21-3c2143e711b4,80,female,black or african american,0.0,29330,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2004,no,3364.0
+2dc1cec9-925a-417f-9e21-3c2143e711b4,80,female,black or african american,0.0,29330,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2004,no,3364.0
+2e1e3bf0-1708-4b65-936c-48b89eb8966a,62,female,white,0.0,22710,M0,N0,Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,not reported,19.0
+2e1e3bf0-1708-4b65-936c-48b89eb8966a,62,female,white,0.0,22710,M0,N0,Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,not reported,19.0
+2e243f0e-9d7d-4cb0-9678-70607f90430a,61,female,white,0.0,22643,MX,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,no,899.0
+2e243f0e-9d7d-4cb0-9678-70607f90430a,61,female,white,0.0,22643,MX,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,899.0
+2e32f31f-9817-4935-b259-96c59936ee33,44,female,white,0.0,16403,M0,N1mi,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1648.0
+2e32f31f-9817-4935-b259-96c59936ee33,44,female,white,0.0,16403,M0,N1mi,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,no,1648.0
+2e538802-2a31-4774-89a8-c6e4381a887d,49,female,white,0.0,18002,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,616.0
+2e538802-2a31-4774-89a8-c6e4381a887d,49,female,white,0.0,18002,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,616.0
+2e82e576-3095-4aee-9853-65f676647c34,57,female,white,0.0,20930,M0,N1a,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2091.0
+2e82e576-3095-4aee-9853-65f676647c34,57,female,white,0.0,20930,M0,N1a,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2091.0
+2e8e70f2-c781-44c2-8f12-1f8c2f536aa3,58,female,white,0.0,21479,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,10.0
+2e8e70f2-c781-44c2-8f12-1f8c2f536aa3,58,female,white,0.0,21479,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,10.0
+2f4cbedf-ed7e-45a2-bf34-f1d1e696bdde,88,female,white,0.0,32462,M0,N0,Stage IIIB,T4,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,213.0
+2f4cbedf-ed7e-45a2-bf34-f1d1e696bdde,88,female,white,0.0,32462,M0,N0,Stage IIIB,T4,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,213.0
+2fd36838-5a83-433e-ac80-b1f77448e5aa,52,female,black or african american,0.0,19031,MX,NX,Stage IIA,T2,7th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",2013,yes,303.0
+2fd36838-5a83-433e-ac80-b1f77448e5aa,52,female,black or african american,0.0,19031,MX,NX,Stage IIA,T2,7th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",2013,yes,303.0
+2fdfd287-d13c-4910-9788-73987d45908a,73,female,white,0.0,26845,M0,N0 (i-),Stage IA,T1,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2002,yes,3094.0
+2fdfd287-d13c-4910-9788-73987d45908a,73,female,white,0.0,26845,M0,N0 (i-),Stage IA,T1,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2002,yes,3094.0
+2fe854b4-bac9-4801-9a1c-ee99388e8082,43,female,white,0.0,15774,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2515.0
+2fe854b4-bac9-4801-9a1c-ee99388e8082,43,female,white,0.0,15774,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2515.0
+30047d32-0833-4aca-98d1-3b9ab7122863,54,female,white,0.0,19989,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,no,3035.0
+30047d32-0833-4aca-98d1-3b9ab7122863,54,female,white,0.0,19989,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,no,3035.0
+303a1d77-a37a-4966-a4a4-9981d99ba1b4,50,female,white,0.0,18507,M0,N1mi,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1163.0
+303a1d77-a37a-4966-a4a4-9981d99ba1b4,50,female,white,0.0,18507,M0,N1mi,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,1163.0
+30ec8b1f-28c4-4f46-8a1b-a8d51e558c7d,70,female,white,1.0,25674,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,not reported,224.0
+30ec8b1f-28c4-4f46-8a1b-a8d51e558c7d,70,female,white,1.0,25674,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,not reported,224.0
+31427699-e27a-4035-8925-6d8d6900d097,43,female,white,0.0,15969,M0,N3,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1325.0
+31427699-e27a-4035-8925-6d8d6900d097,43,female,white,0.0,15969,M0,N3,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1325.0
+3144f1fb-4342-4079-bfe8-940da4bfd88e,53,female,white,0.0,19643,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1042.0
+3144f1fb-4342-4079-bfe8-940da4bfd88e,53,female,white,0.0,19643,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1042.0
+316625b8-a217-4829-90d1-dfd9cb7e4bc3,35,female,not reported,0.0,12965,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,365.0
+316625b8-a217-4829-90d1-dfd9cb7e4bc3,35,female,not reported,0.0,12965,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,365.0
+316e021c-5175-4ab3-bdb6-2bf9683f657a,29,female,white,0.0,10812,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,7.0
+316e021c-5175-4ab3-bdb6-2bf9683f657a,29,female,white,0.0,10812,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,7.0
+31c31cce-1b4d-4f12-922f-84f389403170,69,female,not reported,0.0,25294,M0,N3,Stage IIIB,T4b,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,274.0
+31c31cce-1b4d-4f12-922f-84f389403170,69,female,not reported,0.0,25294,M0,N3,Stage IIIB,T4b,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,274.0
+324bcba2-f6a4-45a6-807c-215bdffcca21,60,female,black or african american,0.0,22115,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,2048.0
+324bcba2-f6a4-45a6-807c-215bdffcca21,60,female,black or african american,0.0,22115,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,2048.0
+327a2395-85c8-42e1-9638-8e037a1723ed,60,female,white,0.0,21949,M0,N3,Stage IIIC,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,974.0
+327a2395-85c8-42e1-9638-8e037a1723ed,60,female,white,0.0,21949,M0,N3,Stage IIIC,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,974.0
+32861b48-83f5-43a3-bb54-45215ad2c5d6,46,female,white,0.0,16882,M0,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,no,1119.0
+32861b48-83f5-43a3-bb54-45215ad2c5d6,46,female,white,0.0,16882,M0,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,no,1119.0
+328dfcb0-b5ae-43f2-bc87-dad0ab3df9e7,45,female,white,0.0,16702,M0,N0 (i-),Stage IA,T1c,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1995,yes,4361.0
+328dfcb0-b5ae-43f2-bc87-dad0ab3df9e7,45,female,white,0.0,16702,M0,N0 (i-),Stage IA,T1c,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1995,yes,4361.0
+32bc7cc4-d185-4594-bbee-4b96410be512,64,female,not reported,1.0,23560,M1,N1a,Stage IV,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2002,no,3409.0
+32bc7cc4-d185-4594-bbee-4b96410be512,64,female,not reported,1.0,23560,M1,N1a,Stage IV,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2002,not reported,3409.0
+32efa6e8-6b19-480a-9d04-ace02e93318a,67,female,white,0.0,24541,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3283.0
+32efa6e8-6b19-480a-9d04-ace02e93318a,67,female,white,0.0,24541,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,no,3283.0
+332148f5-f070-4c20-8eb1-4d8c0673aa52,56,female,white,0.0,20715,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,395.0
+332148f5-f070-4c20-8eb1-4d8c0673aa52,56,female,white,0.0,20715,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,395.0
+332423a7-8866-4ee3-b08f-3c8d7c16af80,73,female,white,1.0,26823,M0,N0 (i+),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,no,158.0
+332423a7-8866-4ee3-b08f-3c8d7c16af80,73,female,white,1.0,26823,M0,N0 (i+),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,158.0
+33919e92-4ea9-47e5-a6f4-36e51845d50f,57,female,not reported,0.0,21002,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,not reported,31.0
+33919e92-4ea9-47e5-a6f4-36e51845d50f,57,female,not reported,0.0,21002,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,not reported,31.0
+33b7bf50-53f4-4839-aa83-9665f85671d8,64,female,white,0.0,23570,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1732.0
+33b7bf50-53f4-4839-aa83-9665f85671d8,64,female,white,0.0,23570,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1732.0
+33cea538-4c3f-470a-972d-257c43241ab4,64,female,asian,0.0,23667,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,393.0
+33cea538-4c3f-470a-972d-257c43241ab4,64,female,asian,0.0,23667,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,393.0
+33fe5833-d7a0-43d7-a03d-56985ea448a6,63,female,white,0.0,23103,MX,N0,Stage IIIB,T4b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,Yes,"Breast, NOS",2004,yes,225.0
+33fe5833-d7a0-43d7-a03d-56985ea448a6,63,female,white,0.0,23103,MX,N0,Stage IIIB,T4b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,Yes,"Breast, NOS",2004,yes,225.0
+34126cd5-cc38-4198-8582-c14fb5db7acb,49,female,white,0.0,18151,MX,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,no,600.0
+34126cd5-cc38-4198-8582-c14fb5db7acb,49,female,white,0.0,18151,MX,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,no,600.0
+34a74805-300c-4773-ab59-2085fcc2e6cc,66,female,white,0.0,24417,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,727.0
+34a74805-300c-4773-ab59-2085fcc2e6cc,66,female,white,0.0,24417,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,727.0
+34ab0cb8-bf19-4cbb-b4eb-3c45ee5aa60b,50,female,white,1.0,18433,M0,N1b,Stage IIB,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1994,yes,4456.0
+34ab0cb8-bf19-4cbb-b4eb-3c45ee5aa60b,50,female,white,1.0,18433,M0,N1b,Stage IIB,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1994,yes,4456.0
+34d5a193-85e5-4399-8a9b-e92858eafdfe,66,female,not reported,0.0,24380,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,not reported,579.0
+34d5a193-85e5-4399-8a9b-e92858eafdfe,66,female,not reported,0.0,24380,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,not reported,579.0
+3558dec7-eae3-4a41-a217-266c6a4535fb,57,female,white,0.0,21064,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,3121.0
+3558dec7-eae3-4a41-a217-266c6a4535fb,57,female,white,0.0,21064,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,3121.0
+359f12f9-5c41-48a4-85bc-fd7e307bf7d8,58,female,white,1.0,21501,M0,N3b,Stage IIIC,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,239.0
+359f12f9-5c41-48a4-85bc-fd7e307bf7d8,58,female,white,1.0,21501,M0,N3b,Stage IIIC,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,239.0
+35bd694d-1dd2-466f-ab27-03320614b40e,36,female,black or african american,0.0,13458,MX,N1mi,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,714.0
+35bd694d-1dd2-466f-ab27-03320614b40e,36,female,black or african american,0.0,13458,MX,N1mi,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,714.0
+35ca5e2a-861a-4dd2-a4ce-d294cf080da3,51,male,black or african american,0.0,18694,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2011,yes,1001.0
+35ca5e2a-861a-4dd2-a4ce-d294cf080da3,51,male,black or african american,0.0,18694,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2011,no,1001.0
+360d1d6d-cf3e-4c78-b36f-ef5e3160aa6b,45,female,white,0.0,16688,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1914.0
+360d1d6d-cf3e-4c78-b36f-ef5e3160aa6b,45,female,white,0.0,16688,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,1914.0
+36220587-1c1c-4f92-b177-3b2155e7e273,39,female,white,0.0,14564,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2868.0
+36220587-1c1c-4f92-b177-3b2155e7e273,39,female,white,0.0,14564,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2868.0
+36449392-de76-4ee9-bc09-627a07e18727,47,female,not reported,0.0,17440,M0,N1,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1522.0
+36449392-de76-4ee9-bc09-627a07e18727,47,female,not reported,0.0,17440,M0,N1,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1522.0
+36d77496-99f8-4911-ba7c-89fae32662aa,39,female,white,0.0,14503,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,531.0
+36d77496-99f8-4911-ba7c-89fae32662aa,39,female,white,0.0,14503,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,531.0
+36fe6152-f61e-4948-9ccc-23ac01a9d77d,53,female,black or african american,0.0,19516,M0,N2a,Stage IIIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2335.0
+36fe6152-f61e-4948-9ccc-23ac01a9d77d,53,female,black or african american,0.0,19516,M0,N2a,Stage IIIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2335.0
+37242f5a-25ae-4b1f-9ce6-09ce1dc92539,65,female,black or african american,0.0,23845,M0,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,no,626.0
+37242f5a-25ae-4b1f-9ce6-09ce1dc92539,65,female,black or african american,0.0,23845,M0,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,626.0
+376ffe63-efd7-42af-90e1-261255b28bb7,55,female,white,1.0,20288,M0,N3,Stage III,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,616.0
+376ffe63-efd7-42af-90e1-261255b28bb7,55,female,white,1.0,20288,M0,N3,Stage III,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,616.0
+378778d2-b331-4867-a93b-c64028c8b4c7,71,female,white,0.0,25959,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,no,2289.0
+378778d2-b331-4867-a93b-c64028c8b4c7,71,female,white,0.0,25959,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2289.0
+3828b534-908e-4953-a3fb-07d01cf49c7d,58,female,not reported,0.0,21520,M0,N1a,Stage IIIB,T4b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,365.0
+3828b534-908e-4953-a3fb-07d01cf49c7d,58,female,not reported,0.0,21520,M0,N1a,Stage IIIB,T4b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,365.0
+3886b4fb-ba22-4a50-b11a-a6893951f170,69,female,white,0.0,25345,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,499.0
+3886b4fb-ba22-4a50-b11a-a6893951f170,69,female,white,0.0,25345,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,499.0
+389e5b18-8f89-41a9-9fa5-efd4172836e2,54,female,black or african american,0.0,19746,M0,N0,Stage IIIB,T4,7th,8510/3,"Medullary carcinoma, NOS",no,No,"Breast, NOS",2013,no,-7.0
+389e5b18-8f89-41a9-9fa5-efd4172836e2,54,female,black or african american,0.0,19746,M0,N0,Stage IIIB,T4,7th,8510/3,"Medullary carcinoma, NOS",no,No,"Breast, NOS",2013,not reported,-7.0
+38a4e9bd-93e9-432d-a756-3b1055b823bd,79,female,white,0.0,28981,M0,N3a,Stage IIIC,T3,7th,8524/3,Infiltrating lobular mixed with other types of carcinoma,yes,No,"Breast, NOS",2013,yes,402.0
+38a4e9bd-93e9-432d-a756-3b1055b823bd,79,female,white,0.0,28981,M0,N3a,Stage IIIC,T3,7th,8524/3,Infiltrating lobular mixed with other types of carcinoma,yes,No,"Breast, NOS",2013,no,402.0
+38a631a1-6875-4216-a335-ee93c90a86d6,80,female,white,1.0,29474,MX,N1a,Stage IIIA,T3,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,302.0
+38a631a1-6875-4216-a335-ee93c90a86d6,80,female,white,1.0,29474,MX,N1a,Stage IIIA,T3,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,302.0
+38a8b734-9acc-42f9-b5b7-e51b0dfc6504,48,female,not reported,0.0,17807,M0,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,942.0
+38a8b734-9acc-42f9-b5b7-e51b0dfc6504,48,female,not reported,0.0,17807,M0,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,942.0
+38dc3e09-0b0e-4a29-b318-cc0352013dae,44,female,white,0.0,16101,MX,N1mi,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,646.0
+38dc3e09-0b0e-4a29-b318-cc0352013dae,44,female,white,0.0,16101,MX,N1mi,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,646.0
+3927f736-3b5c-48c8-9d9e-83669ec44770,79,female,not reported,0.0,29006,M0,N3a,Stage IIIC,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,not reported,0.0
+3927f736-3b5c-48c8-9d9e-83669ec44770,79,female,not reported,0.0,29006,M0,N3a,Stage IIIC,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,not reported,0.0
+398fb71b-ca83-44e7-bf0d-b1ca464b0283,43,female,black or african american,0.0,15780,MX,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,858.0
+398fb71b-ca83-44e7-bf0d-b1ca464b0283,43,female,black or african american,0.0,15780,MX,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,858.0
+39cda4c9-e1c8-44c2-bab7-f5849c12f879,79,female,white,0.0,29211,MX,N1a,Stage IIB,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,no,1853.0
+39cda4c9-e1c8-44c2-bab7-f5849c12f879,79,female,white,0.0,29211,MX,N1a,Stage IIB,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1853.0
+39cde586-df95-435f-b9a6-73b0c0ee5e92,67,female,white,0.0,24519,M0,N1b,Stage IIB,T2,,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",2009,yes,651.0
+39cde586-df95-435f-b9a6-73b0c0ee5e92,67,female,white,0.0,24519,M0,N1b,Stage IIB,T2,,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",2009,yes,651.0
+39de7761-e762-4811-b95c-8216b79ae06b,36,female,white,0.0,13208,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,170.0
+39de7761-e762-4811-b95c-8216b79ae06b,36,female,white,0.0,13208,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,170.0
+3a0775a0-61ae-43f2-b5f6-629a44355c2f,58,female,white,0.0,21198,M0,N0 (i-),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2645.0
+3a0775a0-61ae-43f2-b5f6-629a44355c2f,58,female,white,0.0,21198,M0,N0 (i-),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2645.0
+3a711140-1b89-4611-9992-3861e3d0e01a,66,female,not reported,0.0,24288,M0,N0,Stage IIIB,T4b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,not reported,0.0
+3a711140-1b89-4611-9992-3861e3d0e01a,66,female,not reported,0.0,24288,M0,N0,Stage IIIB,T4b,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,not reported,0.0
+3aaabc62-f5a4-4025-9b29-5adf82c86c84,77,female,white,0.0,28247,M0,N1,Stage IIA,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,2953.0
+3aaabc62-f5a4-4025-9b29-5adf82c86c84,77,female,white,0.0,28247,M0,N1,Stage IIA,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,no,2953.0
+3af31fcf-ad0c-4fd9-a8e3-10f9176b5e9d,68,female,white,1.0,24841,M0,N1,Stage IIIA,T3,7th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2011,yes,322.0
+3af31fcf-ad0c-4fd9-a8e3-10f9176b5e9d,68,female,white,1.0,24841,M0,N1,Stage IIIA,T3,7th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2011,yes,322.0
+3afa1e93-1df8-4e4c-aaa4-557463f4bb77,62,female,white,0.0,22708,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1085.0
+3afa1e93-1df8-4e4c-aaa4-557463f4bb77,62,female,white,0.0,22708,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1085.0
+3b01d064-8c00-4972-9f07-407eac8e7534,54,female,white,0.0,19900,M0,N1a,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,829.0
+3b01d064-8c00-4972-9f07-407eac8e7534,54,female,white,0.0,19900,M0,N1a,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,829.0
+3b1f7e48-216d-47de-ba79-db350f52bff0,48,female,asian,0.0,17779,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,747.0
+3b1f7e48-216d-47de-ba79-db350f52bff0,48,female,asian,0.0,17779,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,747.0
+3b7b9c1e-a84c-47ed-983c-9e4b00cbf01a,55,female,white,0.0,20210,M0,N0,Stage IA,T1,7th,8575/3,"Metaplastic carcinoma, NOS",yes,No,"Breast, NOS",2010,yes,738.0
+3b7b9c1e-a84c-47ed-983c-9e4b00cbf01a,55,female,white,0.0,20210,M0,N0,Stage IA,T1,7th,8575/3,"Metaplastic carcinoma, NOS",yes,No,"Breast, NOS",2010,yes,738.0
+3b963d72-ba5c-467b-83c9-fbdb462510a3,90,female,white,0.0,32872,M0,N3a,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,0.0
+3b963d72-ba5c-467b-83c9-fbdb462510a3,90,female,white,0.0,32872,M0,N3a,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,0.0
+3bf81a9f-abb4-4495-a514-fd3865e13a03,64,female,white,0.0,23423,M0,N0,Stage IA,T1,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,856.0
+3bf81a9f-abb4-4495-a514-fd3865e13a03,64,female,white,0.0,23423,M0,N0,Stage IA,T1,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,856.0
+3c08aabd-d5b5-4bbe-857c-38a7527b2163,44,male,not reported,0.0,16377,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,1124.0
+3c08aabd-d5b5-4bbe-857c-38a7527b2163,44,male,not reported,0.0,16377,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1124.0
+3c275152-d04b-440c-9621-2fc05ea977b6,54,female,white,0.0,19805,M0,N1,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1185.0
+3c275152-d04b-440c-9621-2fc05ea977b6,54,female,white,0.0,19805,M0,N1,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1185.0
+3c612e12-6de8-44fa-a095-805c45474821,58,female,white,0.0,21369,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,728.0
+3c612e12-6de8-44fa-a095-805c45474821,58,female,white,0.0,21369,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,728.0
+3c8b5af9-c34d-43c2-b8c9-39ea11e44fa6,68,female,white,1.0,24940,M0,N0,Stage I,T1c,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,not reported,1009.0
+3c8b5af9-c34d-43c2-b8c9-39ea11e44fa6,68,female,white,1.0,24940,M0,N0,Stage I,T1c,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,not reported,1009.0
+3ca67cd0-81da-4f68-a9fa-f1a8c013c28d,40,female,asian,0.0,,MX,N1,Stage IIB,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2759.0
+3ca67cd0-81da-4f68-a9fa-f1a8c013c28d,40,female,asian,0.0,,MX,N1,Stage IIB,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2759.0
+3cb06c7a-f2a8-448b-91a8-dd201bbf2ddd,52,female,white,0.0,19027,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3203.0
+3cb06c7a-f2a8-448b-91a8-dd201bbf2ddd,52,female,white,0.0,19027,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3203.0
+3d676bba-154b-4d22-ab59-d4d4da051b94,28,female,white,0.0,10564,M0,N1,Stage IIB,T2,7th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2011,yes,1088.0
+3d676bba-154b-4d22-ab59-d4d4da051b94,28,female,white,0.0,10564,M0,N1,Stage IIB,T2,7th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2011,yes,1088.0
+3dbc8d60-3a97-47b2-91d0-c18fb46b4365,85,female,white,0.0,31173,M0,N0 (i-),Stage IA,T1b,7th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2012,no,727.0
+3dbc8d60-3a97-47b2-91d0-c18fb46b4365,85,female,white,0.0,31173,M0,N0 (i-),Stage IA,T1b,7th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2012,no,727.0
+3dbe99d1-e3b8-4ee2-b6a8-2e2e12c6fbe9,81,female,not reported,0.0,29858,M0,N1a,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",yes,Yes,"Breast, NOS",2007,yes,458.0
+3dbe99d1-e3b8-4ee2-b6a8-2e2e12c6fbe9,81,female,not reported,0.0,29858,M0,N1a,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",yes,Yes,"Breast, NOS",2007,no,458.0
+3e25056d-d137-49f5-abaa-f68509426600,54,female,white,0.0,19794,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,10.0
+3e25056d-d137-49f5-abaa-f68509426600,54,female,white,0.0,19794,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,10.0
+3e637872-f5e5-49d3-bb0d-9c16b8713382,55,female,black or african american,1.0,20118,M1,NX,Stage IV,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,227.0
+3e637872-f5e5-49d3-bb0d-9c16b8713382,55,female,black or african american,1.0,20118,M1,NX,Stage IV,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,227.0
+3e775c99-ceda-4246-8d6f-0f58ca5097c8,59,female,white,0.0,21602,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,590.0
+3e775c99-ceda-4246-8d6f-0f58ca5097c8,59,female,white,0.0,21602,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,590.0
+3e9f93c0-aa79-4b4c-bd6c-b3325912362a,41,female,white,0.0,15286,M0,N0,Stage IIIB,T4,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,227.0
+3e9f93c0-aa79-4b4c-bd6c-b3325912362a,41,female,white,0.0,15286,M0,N0,Stage IIIB,T4,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,227.0
+3ea9412b-429e-4dcf-90cd-c53be06885a1,50,female,white,0.0,18561,M0,N1a,Stage IIIA,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1542.0
+3ea9412b-429e-4dcf-90cd-c53be06885a1,50,female,white,0.0,18561,M0,N1a,Stage IIIA,T3,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1542.0
+3ecb0147-276d-486c-9af0-ce437c24ba83,59,female,white,0.0,21622,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2330.0
+3ecb0147-276d-486c-9af0-ce437c24ba83,59,female,white,0.0,21622,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,no,2330.0
+3efa245d-177d-4ef9-94f7-f554c54e345e,84,female,not reported,0.0,30742,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,not reported,365.0
+3efa245d-177d-4ef9-94f7-f554c54e345e,84,female,not reported,0.0,30742,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,not reported,365.0
+3f56d67f-5a9c-4353-9408-e7f60eb6477b,56,female,black or african american,0.0,20495,MX,N0 (i-),Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2012,yes,889.0
+3f56d67f-5a9c-4353-9408-e7f60eb6477b,56,female,black or african american,0.0,20495,MX,N0 (i-),Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2012,no,889.0
+3f834fa7-6d7b-4b85-98c0-5c55d55b6c95,38,female,black or african american,1.0,13982,M0,N1b,Stage IIIA,T3,4th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",1995,yes,1993.0
+3f834fa7-6d7b-4b85-98c0-5c55d55b6c95,38,female,black or african american,1.0,13982,M0,N1b,Stage IIIA,T3,4th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",1995,yes,1993.0
+3fc3755d-a3f8-4e2c-813f-ff124f2a75c1,70,female,black or african american,0.0,25666,M0,N0 (i-),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1596.0
+3fc3755d-a3f8-4e2c-813f-ff124f2a75c1,70,female,black or african american,0.0,25666,M0,N0 (i-),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,no,1596.0
+408cb583-6dc3-4698-8bd2-e284042bd5ef,63,female,white,0.0,23224,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1417.0
+408cb583-6dc3-4698-8bd2-e284042bd5ef,63,female,white,0.0,23224,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1417.0
+417dea5f-f68e-4dab-940e-43ae8c67e5e6,45,female,white,1.0,16504,M0,N1b,Stage IIIA,T3,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1999,no,365.0
+417dea5f-f68e-4dab-940e-43ae8c67e5e6,45,female,white,1.0,16504,M0,N1b,Stage IIIA,T3,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1999,yes,365.0
+418c11e8-2670-48d5-bbf5-95b46bff1201,59,female,black or african american,0.0,21762,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,not reported,666.0
+418c11e8-2670-48d5-bbf5-95b46bff1201,59,female,black or african american,0.0,21762,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,not reported,666.0
+4229e432-6ac5-49d2-b58a-e8713ddb79bd,59,female,white,0.0,21865,M0,N0,Stage IIB,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1233.0
+4229e432-6ac5-49d2-b58a-e8713ddb79bd,59,female,white,0.0,21865,M0,N0,Stage IIB,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1233.0
+42378dbc-a123-4cf9-8502-165e89fda271,32,female,black or african american,0.0,12006,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,1010.0
+42378dbc-a123-4cf9-8502-165e89fda271,32,female,black or african american,0.0,12006,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,1010.0
+42621dfa-abfd-4c7d-8bc5-a02a09d1c2b4,45,female,asian,0.0,16508,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,382.0
+42621dfa-abfd-4c7d-8bc5-a02a09d1c2b4,45,female,asian,0.0,16508,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,382.0
+427d0648-3f77-4ffc-b52c-89855426d647,62,female,black or african american,0.0,22848,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,1474.0
+427d0648-3f77-4ffc-b52c-89855426d647,62,female,black or african american,0.0,22848,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1474.0
+42e47f3a-dff7-41e4-8f84-146d97e8ab72,80,female,white,0.0,29256,MX,N2a,Stage IIIA,T3,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,541.0
+42e47f3a-dff7-41e4-8f84-146d97e8ab72,80,female,white,0.0,29256,MX,N2a,Stage IIIA,T3,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,541.0
+42f6f503-4cf6-4a8e-b5fe-b44bccf6b38b,40,female,white,0.0,14626,M0,N1,,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,626.0
+42f6f503-4cf6-4a8e-b5fe-b44bccf6b38b,40,female,white,0.0,14626,M0,N1,,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,626.0
+43029932-feb0-4658-97fa-645c1e775009,46,female,white,0.0,16974,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2920.0
+43029932-feb0-4658-97fa-645c1e775009,46,female,white,0.0,16974,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2920.0
+433427a1-bacf-4381-91ba-5fec8a0953f9,79,female,white,1.0,28974,M0,N0,Stage I,T1c,6th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,Lower-inner quadrant of breast,2003,not reported,2009.0
+433427a1-bacf-4381-91ba-5fec8a0953f9,79,female,white,1.0,28974,M0,N0,Stage I,T1c,6th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,Lower-inner quadrant of breast,2003,not reported,2009.0
+43b3bf47-7313-4dfb-952a-ec0b9d48e16c,66,female,black or african american,0.0,24139,MX,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,620.0
+43b3bf47-7313-4dfb-952a-ec0b9d48e16c,66,female,black or african american,0.0,24139,MX,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,620.0
+43c0bec6-6fac-47b1-83cb-200a15a932be,51,female,black or african american,0.0,18942,MX,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,878.0
+43c0bec6-6fac-47b1-83cb-200a15a932be,51,female,black or african american,0.0,18942,MX,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,878.0
+43cc074d-b85a-4b0b-8feb-833094ffc565,61,female,white,0.0,22325,M0,N0,Stage IIA,T2,7th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2012,no,160.0
+43cc074d-b85a-4b0b-8feb-833094ffc565,61,female,white,0.0,22325,M0,N0,Stage IIA,T2,7th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2012,no,160.0
+43d5632e-7272-4aad-9496-7f5a99671223,51,female,white,0.0,18756,M0,N0 (i+),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,631.0
+43d5632e-7272-4aad-9496-7f5a99671223,51,female,white,0.0,18756,M0,N0 (i+),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,631.0
+441919eb-8c9f-478c-bda3-8de4f8295e8a,67,female,asian,0.0,24710,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,363.0
+441919eb-8c9f-478c-bda3-8de4f8295e8a,67,female,asian,0.0,24710,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,363.0
+444374f8-9282-439c-af00-0f828edcbff3,40,female,asian,0.0,,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,Yes,"Breast, NOS",2010,no,343.0
+444374f8-9282-439c-af00-0f828edcbff3,40,female,asian,0.0,,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,Yes,"Breast, NOS",2010,yes,343.0
+44954053-0b93-4577-a436-42777e442300,62,female,white,1.0,22798,M1,NX,Stage IV,T3,3rd,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1992,yes,362.0
+44954053-0b93-4577-a436-42777e442300,62,female,white,1.0,22798,M1,NX,Stage IV,T3,3rd,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1992,yes,362.0
+44bec761-b603-49c0-8634-f6bfe0319bb1,40,female,not reported,0.0,14653,M0,N1,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2184.0
+44bec761-b603-49c0-8634-f6bfe0319bb1,40,female,not reported,0.0,14653,M0,N1,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2184.0
+45013972-2dfd-4f82-a076-e3e4af1b43b8,63,female,black or african american,1.0,23278,M1,N3b,Stage IV,T4d,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,no,116.0
+45013972-2dfd-4f82-a076-e3e4af1b43b8,63,female,black or african american,1.0,23278,M1,N3b,Stage IV,T4d,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,no,116.0
+4510295e-8aa7-4ef1-b2b7-91cc902f8200,68,female,white,1.0,25136,M0,N1,Stage IIA,T1c,5th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",1999,not reported,2798.0
+4510295e-8aa7-4ef1-b2b7-91cc902f8200,68,female,white,1.0,25136,M0,N1,Stage IIA,T1c,5th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",1999,not reported,2798.0
+451e1a67-47e6-4738-99d7-fb7771ef61a3,73,female,white,1.0,26941,M0,N1b,,T2,4th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",1994,yes,3126.0
+451e1a67-47e6-4738-99d7-fb7771ef61a3,73,female,white,1.0,26941,M0,N1b,,T2,4th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",1994,no,3126.0
+452672e8-b6d9-45b5-bb02-e88e03e2dd66,70,female,not reported,0.0,25659,M0,N3,Stage IIIB,T2,5th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,30.0
+452672e8-b6d9-45b5-bb02-e88e03e2dd66,70,female,not reported,0.0,25659,M0,N3,Stage IIIB,T2,5th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,30.0
+45c3975c-d333-4237-93f7-e12dc2451c38,69,female,black or african american,0.0,25282,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,252.0
+45c3975c-d333-4237-93f7-e12dc2451c38,69,female,black or african american,0.0,25282,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,252.0
+4649dee3-b668-44cd-ab97-3834de3ef8f8,61,female,white,0.0,22341,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,163.0
+4649dee3-b668-44cd-ab97-3834de3ef8f8,61,female,white,0.0,22341,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,163.0
+478eb8aa-50b8-4ce5-98e4-d518ede4b174,43,female,white,0.0,15980,M0,N1a,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,495.0
+478eb8aa-50b8-4ce5-98e4-d518ede4b174,43,female,white,0.0,15980,M0,N1a,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,495.0
+4842bac3-abaa-4900-871f-f2c3ba6457f5,63,female,white,0.0,23347,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,339.0
+4842bac3-abaa-4900-871f-f2c3ba6457f5,63,female,white,0.0,23347,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,339.0
+48ff0420-0f19-4e9d-a75d-6c54949a461a,47,female,black or african american,0.0,17438,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2596.0
+48ff0420-0f19-4e9d-a75d-6c54949a461a,47,female,black or african american,0.0,17438,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2596.0
+491b6364-1223-474f-816f-e248c8c841e2,63,female,white,0.0,23366,M0,N1a,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1156.0
+491b6364-1223-474f-816f-e248c8c841e2,63,female,white,0.0,23366,M0,N1a,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1156.0
+491d5ebb-e9ab-4b17-acb8-630ff9fef0f2,52,female,white,0.0,19030,M0,N0,Stage IIA,T2,6th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2006,yes,3004.0
+491d5ebb-e9ab-4b17-acb8-630ff9fef0f2,52,female,white,0.0,19030,M0,N0,Stage IIA,T2,6th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2006,no,3004.0
+4922cddc-575c-4b8a-8245-ce5f6876760c,70,female,white,0.0,25693,M0,N3,Stage IIIC,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,78.0
+4922cddc-575c-4b8a-8245-ce5f6876760c,70,female,white,0.0,25693,M0,N3,Stage IIIC,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,78.0
+4958c36f-1dc7-4f14-9dec-36e14107dbe3,80,female,white,0.0,29280,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,410.0
+4958c36f-1dc7-4f14-9dec-36e14107dbe3,80,female,white,0.0,29280,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,410.0
+495f9eda-b9be-4eef-bae1-766a4bfbd68e,36,female,white,0.0,13409,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1842.0
+495f9eda-b9be-4eef-bae1-766a4bfbd68e,36,female,white,0.0,13409,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1842.0
+49717f75-0f2d-4e1c-9a12-f1cd7877b80a,58,female,white,0.0,21426,M0,N1,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,not reported,52.0
+49717f75-0f2d-4e1c-9a12-f1cd7877b80a,58,female,white,0.0,21426,M0,N1,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,not reported,52.0
+49a2fd48-744d-4d88-b9b4-8c778d4f48fd,64,female,black or african american,0.0,23642,cM0 (i+),N1mi,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2013,yes,424.0
+49a2fd48-744d-4d88-b9b4-8c778d4f48fd,64,female,black or african american,0.0,23642,cM0 (i+),N1mi,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2013,yes,424.0
+49dc3e68-6206-4f16-969f-a758cc7be8ed,51,female,white,0.0,18839,M0,N3a,Stage IIIC,T3,,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2006,yes,1132.0
+49dc3e68-6206-4f16-969f-a758cc7be8ed,51,female,white,0.0,18839,M0,N3a,Stage IIIC,T3,,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2006,yes,1132.0
+4a032bad-e726-48f2-8f39-e3acc109cc91,59,female,white,0.0,21856,M0,N1a,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2255.0
+4a032bad-e726-48f2-8f39-e3acc109cc91,59,female,white,0.0,21856,M0,N1a,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2255.0
+4a16429b-884f-4c95-8683-feeedf0d6a55,42,female,white,0.0,15524,M0,N0 (i-),Stage IA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1873.0
+4a16429b-884f-4c95-8683-feeedf0d6a55,42,female,white,0.0,15524,M0,N0 (i-),Stage IA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,1873.0
+4a831893-f4ca-4357-a756-b5e954e35dd7,72,female,white,1.0,26407,M0,N1,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,904.0
+4a831893-f4ca-4357-a756-b5e954e35dd7,72,female,white,1.0,26407,M0,N1,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,904.0
+4aa68586-6331-4795-b40c-859386640df6,31,female,white,1.0,11650,M0,N1,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,not reported,2273.0
+4aa68586-6331-4795-b40c-859386640df6,31,female,white,1.0,11650,M0,N1,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,not reported,2273.0
+4aacbc42-5ac5-4339-b9fa-c6e812084837,74,female,white,0.0,27288,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,1189.0
+4aacbc42-5ac5-4339-b9fa-c6e812084837,74,female,white,0.0,27288,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1189.0
+4ac693e9-10f3-46b3-9d46-df3af7b0d259,48,female,white,0.0,17580,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1935.0
+4ac693e9-10f3-46b3-9d46-df3af7b0d259,48,female,white,0.0,17580,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1935.0
+4b0d295c-e185-4b52-9752-178e5bc1d47d,64,female,not reported,0.0,23404,M0,N3a,Stage IIIC,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,640.0
+4b0d295c-e185-4b52-9752-178e5bc1d47d,64,female,not reported,0.0,23404,M0,N3a,Stage IIIC,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,640.0
+4b4e4ea8-6eb9-49ad-b880-c5065fe6517f,48,female,white,0.0,17699,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1369.0
+4b4e4ea8-6eb9-49ad-b880-c5065fe6517f,48,female,white,0.0,17699,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1369.0
+4b54e06e-a280-4981-a4e1-9aea154341b4,73,female,black or african american,0.0,26999,MX,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,518.0
+4b54e06e-a280-4981-a4e1-9aea154341b4,73,female,black or african american,0.0,26999,MX,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,518.0
+4b620966-b4c7-4615-bf58-ca9d3226b9bd,54,female,white,0.0,19731,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,not reported,1463.0
+4b620966-b4c7-4615-bf58-ca9d3226b9bd,54,female,white,0.0,19731,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,not reported,1463.0
+4bf50455-9ab7-4521-a791-089f66d3b877,39,female,white,0.0,14374,M0,N1,Stage IIIA,T3,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,yes,2721.0
+4bf50455-9ab7-4521-a791-089f66d3b877,39,female,white,0.0,14374,M0,N1,Stage IIIA,T3,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,yes,2721.0
+4c313e5b-4dc3-408e-8e92-22427f74743e,65,female,black or african american,0.0,24029,MX,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2011,yes,504.0
+4c313e5b-4dc3-408e-8e92-22427f74743e,65,female,black or african american,0.0,24029,MX,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2011,yes,504.0
+4cf0f639-7940-48b6-8ea1-2a3494097cdb,54,female,asian,0.0,20075,M0,N0,Stage IIB,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2004,yes,3283.0
+4cf0f639-7940-48b6-8ea1-2a3494097cdb,54,female,asian,0.0,20075,M0,N0,Stage IIB,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2004,no,3283.0
+4cfef7f9-f1ee-401c-a2a3-c225d4adc3b6,59,female,white,0.0,21837,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,575.0
+4cfef7f9-f1ee-401c-a2a3-c225d4adc3b6,59,female,white,0.0,21837,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,575.0
+4d0fec97-e024-4608-a0cc-426a3decc7b1,50,female,white,0.0,18611,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2838.0
+4d0fec97-e024-4608-a0cc-426a3decc7b1,50,female,white,0.0,18611,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2838.0
+4d120899-9a80-4736-b097-285e9e261bcb,84,female,white,0.0,30958,MX,N2a,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,475.0
+4d120899-9a80-4736-b097-285e9e261bcb,84,female,white,0.0,30958,MX,N2a,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,475.0
+4d1bf9e6-5837-4aed-b568-92f014ed5a4b,56,female,white,0.0,20497,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,426.0
+4d1bf9e6-5837-4aed-b568-92f014ed5a4b,56,female,white,0.0,20497,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,426.0
+4d26dada-5eb7-4d4e-8eb8-f5465c5c3428,62,female,white,1.0,22942,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1272.0
+4d26dada-5eb7-4d4e-8eb8-f5465c5c3428,62,female,white,1.0,22942,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1272.0
+4d51159f-ab2f-40e3-a363-847c3654431e,90,female,asian,0.0,32872,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,0.0
+4d51159f-ab2f-40e3-a363-847c3654431e,90,female,asian,0.0,32872,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,0.0
+4da7abaf-ac7a-41c0-8033-5780a398545c,41,female,white,0.0,15085,M0,N0 (i-),Stage IIB,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1229.0
+4da7abaf-ac7a-41c0-8033-5780a398545c,41,female,white,0.0,15085,M0,N0 (i-),Stage IIB,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1229.0
+4da999a0-ef41-4a0b-b1d1-446b39cc855a,52,female,white,0.0,19073,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,607.0
+4da999a0-ef41-4a0b-b1d1-446b39cc855a,52,female,white,0.0,19073,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,607.0
+4dfc233b-ed03-4825-8089-e04cdee99996,61,male,white,0.0,22536,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,424.0
+4dfc233b-ed03-4825-8089-e04cdee99996,61,male,white,0.0,22536,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,424.0
+4e3699da-4367-4a43-9d66-a117d3ad460d,68,female,white,0.0,25029,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,10.0
+4e3699da-4367-4a43-9d66-a117d3ad460d,68,female,white,0.0,25029,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,10.0
+4e42fdc5-2a8b-49e9-87ef-6db7a6692d08,62,female,white,1.0,22688,M0,N1b,Stage IIB,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,yes,860.0
+4e42fdc5-2a8b-49e9-87ef-6db7a6692d08,62,female,white,1.0,22688,M0,N1b,Stage IIB,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1996,yes,860.0
+4e509f73-99c7-48eb-a3a4-d34e3bface33,61,female,white,0.0,22411,MX,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,no,1783.0
+4e509f73-99c7-48eb-a3a4-d34e3bface33,61,female,white,0.0,22411,MX,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,no,1783.0
+4e6edfe6-adcb-4c12-8ff4-38a79f5887e8,61,female,black or african american,1.0,22380,M0,N1b,Stage IIB,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1995,yes,2097.0
+4e6edfe6-adcb-4c12-8ff4-38a79f5887e8,61,female,black or african american,1.0,22380,M0,N1b,Stage IIB,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1995,no,2097.0
+4f04bd10-9902-4a23-b15d-4f4409d79499,64,female,white,0.0,23530,M0,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,837.0
+4f04bd10-9902-4a23-b15d-4f4409d79499,64,female,white,0.0,23530,M0,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,837.0
+4f321d41-3255-46a4-ae0d-1cf39699e624,73,female,white,0.0,26883,MX,N1a,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,849.0
+4f321d41-3255-46a4-ae0d-1cf39699e624,73,female,white,0.0,26883,MX,N1a,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,849.0
+4f608829-ffc4-4527-886e-6bc764ab29f5,73,female,white,0.0,26988,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1871.0
+4f608829-ffc4-4527-886e-6bc764ab29f5,73,female,white,0.0,26988,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,1871.0
+4fba3deb-db94-44b5-a0f2-a575d270779e,62,female,white,0.0,22686,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1174.0
+4fba3deb-db94-44b5-a0f2-a575d270779e,62,female,white,0.0,22686,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1174.0
+50619f8c-10aa-464a-a227-90a7aa6ffd43,46,female,white,1.0,16824,M0,N0,Stage I,T1,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1999,not reported,2763.0
+50619f8c-10aa-464a-a227-90a7aa6ffd43,46,female,white,1.0,16824,M0,N0,Stage I,T1,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1999,not reported,2763.0
+515b1400-e896-4f2a-81bd-70895441a0bd,66,female,not reported,0.0,24442,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,791.0
+515b1400-e896-4f2a-81bd-70895441a0bd,66,female,not reported,0.0,24442,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,791.0
+518f231c-f5f9-4a39-a97b-7fd5666d3e50,47,female,white,0.0,17465,cM0 (i+),N1a,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1919.0
+518f231c-f5f9-4a39-a97b-7fd5666d3e50,47,female,white,0.0,17465,cM0 (i+),N1a,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,1919.0
+51ccbf1b-7cae-44ba-991a-11eda8b8c404,35,female,white,1.0,13138,M0,N1a,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1999,not reported,3462.0
+51ccbf1b-7cae-44ba-991a-11eda8b8c404,35,female,white,1.0,13138,M0,N1a,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1999,not reported,3462.0
+521e2140-ae5b-456f-8699-97398d009687,43,female,white,0.0,15989,M0,N0 (i-),Stage IIA,T2,6th,8510/3,"Medullary carcinoma, NOS",no,No,"Breast, NOS",2009,yes,907.0
+521e2140-ae5b-456f-8699-97398d009687,43,female,white,0.0,15989,M0,N0 (i-),Stage IIA,T2,6th,8510/3,"Medullary carcinoma, NOS",no,No,"Breast, NOS",2009,yes,907.0
+523e24a2-51b9-4658-be2f-42e5fccebb17,47,female,black or african american,0.0,17529,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,326.0
+523e24a2-51b9-4658-be2f-42e5fccebb17,47,female,black or african american,0.0,17529,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,326.0
+5258294f-ef5b-4091-9183-6bcc545d54b2,77,female,black or african american,1.0,28403,M0,N0,Stage I,T1c,5th,8510/3,"Medullary carcinoma, NOS",no,No,"Breast, NOS",1996,not reported,3959.0
+5258294f-ef5b-4091-9183-6bcc545d54b2,77,female,black or african american,1.0,28403,M0,N0,Stage I,T1c,5th,8510/3,"Medullary carcinoma, NOS",no,No,"Breast, NOS",1996,not reported,3959.0
+52c35691-efca-42f5-a03e-02c9f872275c,53,female,asian,0.0,,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,366.0
+52c35691-efca-42f5-a03e-02c9f872275c,53,female,asian,0.0,,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,366.0
+530ad151-703d-4638-851f-0b5111ff318b,41,female,white,0.0,15166,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,552.0
+530ad151-703d-4638-851f-0b5111ff318b,41,female,white,0.0,15166,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,552.0
+5362cbc4-cd28-4afd-a8ac-1a4c2c33cad2,44,female,black or african american,1.0,16178,M0,N2a,Stage IIIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,573.0
+5362cbc4-cd28-4afd-a8ac-1a4c2c33cad2,44,female,black or african american,1.0,16178,M0,N2a,Stage IIIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,573.0
+53886143-c1c6-40e9-88e6-e4e5e0271fc8,49,female,black or african american,1.0,17981,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,1439.0
+53886143-c1c6-40e9-88e6-e4e5e0271fc8,49,female,black or african american,1.0,17981,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1439.0
+539bbbed-43fb-4fef-9c67-6406f58b186a,51,female,white,0.0,18684,M0,N0 (i-),Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,59.0
+539bbbed-43fb-4fef-9c67-6406f58b186a,51,female,white,0.0,18684,M0,N0 (i-),Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,59.0
+53d0af48-d7ea-42c9-8695-c614b89b415b,77,female,white,0.0,28177,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,703.0
+53d0af48-d7ea-42c9-8695-c614b89b415b,77,female,white,0.0,28177,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,703.0
+53ff5893-7d5e-4bcb-be9c-665fa34b7824,63,female,white,0.0,23266,MX,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,908.0
+53ff5893-7d5e-4bcb-be9c-665fa34b7824,63,female,white,0.0,23266,MX,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,908.0
+546248b0-22a0-4b70-a437-76fb0a238a0d,59,female,white,0.0,21910,M1,N2,Stage IV,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,242.0
+546248b0-22a0-4b70-a437-76fb0a238a0d,59,female,white,0.0,21910,M1,N2,Stage IV,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,242.0
+54883111-d475-4515-ba3f-fece8a71e79e,62,female,white,0.0,22779,M0,N2a,Stage IIIA,T3,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,528.0
+54883111-d475-4515-ba3f-fece8a71e79e,62,female,white,0.0,22779,M0,N2a,Stage IIIA,T3,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,528.0
+55262fcb-1b01-4480-b322-36570430c917,50,female,black or african american,0.0,18538,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,4005.0
+55262fcb-1b01-4480-b322-36570430c917,50,female,black or african american,0.0,18538,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2003,yes,4005.0
+5562455d-bbb8-46eb-a510-e8c6e1e26789,60,female,black or african american,1.0,22238,M0,N0 (i-),Stage IIA,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1993,yes,2469.0
+5562455d-bbb8-46eb-a510-e8c6e1e26789,60,female,black or african american,1.0,22238,M0,N0 (i-),Stage IIA,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1993,no,2469.0
+557cb0a3-6f1b-4faf-8296-0a15c24158f9,60,female,white,1.0,22222,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,Lower-inner quadrant of breast,2003,not reported,921.0
+557cb0a3-6f1b-4faf-8296-0a15c24158f9,60,female,white,1.0,22222,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,Lower-inner quadrant of breast,2003,not reported,921.0
+5580b21a-2cdb-4777-ad79-6e06654144f5,38,female,white,0.0,13985,M0,N1mi,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,393.0
+5580b21a-2cdb-4777-ad79-6e06654144f5,38,female,white,0.0,13985,M0,N1mi,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,393.0
+56033839-35d5-4d72-8b8c-400cb345263d,47,female,white,0.0,17300,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1239.0
+56033839-35d5-4d72-8b8c-400cb345263d,47,female,white,0.0,17300,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,1239.0
+56203436-8634-4fd0-96b5-ba6be9d87857,90,female,white,0.0,32872,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,0.0
+56203436-8634-4fd0-96b5-ba6be9d87857,90,female,white,0.0,32872,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,0.0
+56230e4a-29ca-4f37-a0f9-730dbdfb6fa2,51,female,black or african american,0.0,18806,MX,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,250.0
+56230e4a-29ca-4f37-a0f9-730dbdfb6fa2,51,female,black or african american,0.0,18806,MX,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,250.0
+566792ae-f853-4a47-856d-f02cdcfcb18a,69,female,not reported,0.0,25263,M0,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,426.0
+566792ae-f853-4a47-856d-f02cdcfcb18a,69,female,not reported,0.0,25263,M0,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,426.0
+56bbd282-b88d-4730-9242-ab97d08dc83a,58,female,white,0.0,21288,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,yes,3091.0
+56bbd282-b88d-4730-9242-ab97d08dc83a,58,female,white,0.0,21288,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,no,3091.0
+5700c1b3-922a-4401-8ab8-89028908d696,58,female,white,0.0,21344,M0,N0 (i+),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2193.0
+5700c1b3-922a-4401-8ab8-89028908d696,58,female,white,0.0,21344,M0,N0 (i+),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,no,2193.0
+57a1604c-60b7-4b30-a75e-f70939532c5c,,,other,,,,,,,,,,,,,,,
+57af5c72-0d60-4a6b-b1b4-ec6dab90f80f,51,female,black or african american,0.0,18695,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,313.0
+57af5c72-0d60-4a6b-b1b4-ec6dab90f80f,51,female,black or african american,0.0,18695,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,no,313.0
+57cf380d-ab52-467f-b9ae-740b2f84c820,41,female,black or african american,0.0,15158,M0,N1mi,Stage IB,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,no,635.0
+57cf380d-ab52-467f-b9ae-740b2f84c820,41,female,black or african american,0.0,15158,M0,N1mi,Stage IB,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,635.0
+58090433-d8d1-4499-a235-810c3e9d5b74,51,female,black or african american,0.0,18741,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2011,no,78.0
+58090433-d8d1-4499-a235-810c3e9d5b74,51,female,black or african american,0.0,18741,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2011,no,78.0
+58959e88-54e2-4558-9664-2effda7403dc,49,female,white,0.0,18021,M0,N2a,Stage IIIA,T2,,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",2009,yes,798.0
+58959e88-54e2-4558-9664-2effda7403dc,49,female,white,0.0,18021,M0,N2a,Stage IIIA,T2,,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",2009,yes,798.0
+58c56d4b-3f85-4aad-a779-5f9e1791677d,75,female,white,0.0,27705,M0,N0 (i+),Stage IIA,T2,6th,8022/3,Pleomorphic carcinoma,no,No,"Breast, NOS",2006,no,1639.0
+58c56d4b-3f85-4aad-a779-5f9e1791677d,75,female,white,0.0,27705,M0,N0 (i+),Stage IIA,T2,6th,8022/3,Pleomorphic carcinoma,no,No,"Breast, NOS",2006,yes,1639.0
+599c3701-df7a-4a75-a347-fa9b510dd242,46,female,white,0.0,16961,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,yes,1548.0
+599c3701-df7a-4a75-a347-fa9b510dd242,46,female,white,0.0,16961,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,yes,1548.0
+59be60a3-e0f6-4d63-b98c-574ef92428c4,66,female,white,1.0,24266,M0,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,336.0
+59be60a3-e0f6-4d63-b98c-574ef92428c4,66,female,white,1.0,24266,M0,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,336.0
+59bf0ce4-715a-4017-bccb-c59916e78324,66,female,not reported,0.0,24411,M0,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,760.0
+59bf0ce4-715a-4017-bccb-c59916e78324,66,female,not reported,0.0,24411,M0,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,760.0
+59d60247-e549-4326-a672-50b05c13a291,54,female,white,0.0,19975,M0,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,no,662.0
+59d60247-e549-4326-a672-50b05c13a291,54,female,white,0.0,19975,M0,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,662.0
+5a17dcd9-5ced-4a69-8069-23c7fd0649d1,51,female,white,0.0,18942,M0,N2a,,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,635.0
+5a17dcd9-5ced-4a69-8069-23c7fd0649d1,51,female,white,0.0,18942,M0,N2a,,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,635.0
+5a4b7098-1f6a-49e9-b364-29d6d34f5bd5,75,female,black or african american,1.0,27557,M0,N0 (i-),Stage IIB,T3,4th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",1997,no,3873.0
+5a4b7098-1f6a-49e9-b364-29d6d34f5bd5,75,female,black or african american,1.0,27557,M0,N0 (i-),Stage IIB,T3,4th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",1997,yes,3873.0
+5a53ec47-e63f-44a2-8078-87659544fb04,46,female,white,0.0,17157,M0,N3a,Stage IIIC,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,648.0
+5a53ec47-e63f-44a2-8078-87659544fb04,46,female,white,0.0,17157,M0,N3a,Stage IIIC,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,648.0
+5a57dc25-d252-4b22-b192-4de630d7002f,44,female,white,0.0,16310,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1572.0
+5a57dc25-d252-4b22-b192-4de630d7002f,44,female,white,0.0,16310,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1572.0
+5a5f0f48-2b13-4e78-b130-901b85d9a7f3,29,female,asian,0.0,,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,513.0
+5a5f0f48-2b13-4e78-b130-901b85d9a7f3,29,female,asian,0.0,,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,513.0
+5aca16ca-4516-4e27-8249-6914029a7ebf,60,female,white,0.0,22094,M0,N2a,Stage IIIA,T3,5th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2001,yes,4159.0
+5aca16ca-4516-4e27-8249-6914029a7ebf,60,female,white,0.0,22094,M0,N2a,Stage IIIA,T3,5th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2001,yes,4159.0
+5b2a4f11-ca46-4974-9420-59b4820920bf,72,female,black or african american,0.0,26627,MX,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2013,no,417.0
+5b2a4f11-ca46-4974-9420-59b4820920bf,72,female,black or african american,0.0,26627,MX,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2013,no,417.0
+5b9a5cd2-5ec8-48a0-b9f2-da9bede0b089,62,female,white,1.0,22723,MX,NX,Stage X,T1c,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1994,yes,1781.0
+5b9a5cd2-5ec8-48a0-b9f2-da9bede0b089,62,female,white,1.0,22723,MX,NX,Stage X,T1c,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1994,yes,1781.0
+5c59028f-b8fa-4811-8314-be3eaed5f364,62,female,black or african american,0.0,22844,M0,N0,Stage II,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,760.0
+5c59028f-b8fa-4811-8314-be3eaed5f364,62,female,black or african american,0.0,22844,M0,N0,Stage II,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,760.0
+5c8983f2-9788-4dfa-971c-3ec457b6166e,37,female,black or african american,0.0,13556,M0,N2a,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3015.0
+5c8983f2-9788-4dfa-971c-3ec457b6166e,37,female,black or african american,0.0,13556,M0,N2a,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3015.0
+5c9d8163-a68e-43ce-9cba-effb7405761e,90,female,white,0.0,32872,MX,NX,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,Yes,"Breast, NOS",2012,no,0.0
+5c9d8163-a68e-43ce-9cba-effb7405761e,90,female,white,0.0,32872,MX,NX,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,Yes,"Breast, NOS",2012,yes,0.0
+5cbf0aea-ebb4-4005-bdd5-14ef2dc6826c,67,female,white,0.0,24831,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,965.0
+5cbf0aea-ebb4-4005-bdd5-14ef2dc6826c,67,female,white,0.0,24831,M0,N0 (i-),Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,965.0
+5cd79093-1571-4f71-8136-0d84ccabdcac,77,female,white,0.0,,MX,N0 (i-),Stage IA,T1c,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,883.0
+5cd79093-1571-4f71-8136-0d84ccabdcac,77,female,white,0.0,,MX,N0 (i-),Stage IA,T1c,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2012,yes,883.0
+5cdae21d-eee5-478f-932a-0f51fcf5f031,56,female,white,0.0,20795,M0,N3,Stage IIIC,T4b,7th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2007,yes,1224.0
+5cdae21d-eee5-478f-932a-0f51fcf5f031,56,female,white,0.0,20795,M0,N3,Stage IIIC,T4b,7th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2007,no,1224.0
+5d1d00c6-fcae-479e-ae1e-de76efd41d98,71,female,black or african american,0.0,25974,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2371.0
+5d1d00c6-fcae-479e-ae1e-de76efd41d98,71,female,black or african american,0.0,25974,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2371.0
+5d688049-f271-40ef-813a-d37240ffe21c,65,female,not reported,0.0,23742,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,577.0
+5d688049-f271-40ef-813a-d37240ffe21c,65,female,not reported,0.0,23742,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,577.0
+5d8ed961-a012-4b6b-bffb-9468d3953646,59,female,white,0.0,21559,M0,N0 (i-),Stage IIB,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,477.0
+5d8ed961-a012-4b6b-bffb-9468d3953646,59,female,white,0.0,21559,M0,N0 (i-),Stage IIB,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,no,477.0
+5dc1bee9-c44d-4fdc-9ae5-83426c4d6880,27,female,white,0.0,9873,M0,N1,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2991.0
+5dc1bee9-c44d-4fdc-9ae5-83426c4d6880,27,female,white,0.0,9873,M0,N1,Stage IIIA,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2991.0
+5dd423e8-feaa-4568-a750-500948c41d6c,73,female,black or african american,1.0,26902,M0,N0,Stage IIA,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,no,2361.0
+5dd423e8-feaa-4568-a750-500948c41d6c,73,female,black or african american,1.0,26902,M0,N0,Stage IIA,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1998,no,2361.0
+5e2cbc56-97f9-4b94-ade2-a3f739bcc7be,80,female,white,0.0,29529,MX,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,371.0
+5e2cbc56-97f9-4b94-ade2-a3f739bcc7be,80,female,white,0.0,29529,MX,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,no,371.0
+5e4187c9-98f8-4bdb-a8da-6a914e96f47a,58,female,not reported,0.0,21338,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,549.0
+5e4187c9-98f8-4bdb-a8da-6a914e96f47a,58,female,not reported,0.0,21338,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,549.0
+5e670fec-8992-44bf-8657-f7f9a272306b,70,female,white,0.0,25771,M0,N0 (i+),Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2003,yes,4088.0
+5e670fec-8992-44bf-8657-f7f9a272306b,70,female,white,0.0,25771,M0,N0 (i+),Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2003,yes,4088.0
+5ea18514-51ad-4844-abea-15e82f0b10c9,40,female,white,0.0,14868,M0,N1mi,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,598.0
+5ea18514-51ad-4844-abea-15e82f0b10c9,40,female,white,0.0,14868,M0,N1mi,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,598.0
+5ed024e8-d05e-4c65-9441-eda9930ccc82,50,female,black or african american,0.0,18362,M0,N0 (i+),Stage IIA,T2,7th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2010,no,722.0
+5ed024e8-d05e-4c65-9441-eda9930ccc82,50,female,black or african american,0.0,18362,M0,N0 (i+),Stage IIA,T2,7th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2010,yes,722.0
+5f4d16aa-9cc4-4edb-b714-394e2661439a,87,female,white,1.0,31932,M0,N0 (i+),Stage IA,T1c,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2012,no,295.0
+5f4d16aa-9cc4-4edb-b714-394e2661439a,87,female,white,1.0,31932,M0,N0 (i+),Stage IA,T1c,7th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2012,no,295.0
+5f5964a8-8e07-4620-98f0-93d162dbc31e,45,female,not reported,0.0,16681,M1,N3a,Stage IV,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,943.0
+5f5964a8-8e07-4620-98f0-93d162dbc31e,45,female,not reported,0.0,16681,M1,N3a,Stage IV,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,943.0
+5f90d955-bbb0-4b44-a5ac-ba6fda9ca0fb,63,female,not reported,0.0,23011,M0,N2a,Stage IIIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,396.0
+5f90d955-bbb0-4b44-a5ac-ba6fda9ca0fb,63,female,not reported,0.0,23011,M0,N2a,Stage IIIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,396.0
+5fc7ff35-d3f7-4687-8759-3542bd58e988,43,female,white,0.0,15837,MX,N0,Stage IIA,T2,6th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",2009,yes,911.0
+5fc7ff35-d3f7-4687-8759-3542bd58e988,43,female,white,0.0,15837,MX,N0,Stage IIA,T2,6th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",2009,yes,911.0
+5fd37868-4762-4109-9dcf-6fdbab5b645d,54,female,black or african american,0.0,19842,M0,N0 (i-),Stage I,T1c,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2596.0
+5fd37868-4762-4109-9dcf-6fdbab5b645d,54,female,black or african american,0.0,19842,M0,N0 (i-),Stage I,T1c,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2596.0
+5fd9552a-c742-4388-940d-295d1107ae00,65,female,white,0.0,23927,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1026.0
+5fd9552a-c742-4388-940d-295d1107ae00,65,female,white,0.0,23927,M0,N0,Stage I,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1026.0
+5fe3c51f-65e2-4da6-8924-a6fae17c022d,67,female,white,0.0,24719,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,34.0
+5fe3c51f-65e2-4da6-8924-a6fae17c022d,67,female,white,0.0,24719,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,34.0
+5ff12cbe-a3e0-4ce6-8452-12b984a1baaf,38,female,asian,0.0,14122,MX,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,258.0
+5ff12cbe-a3e0-4ce6-8452-12b984a1baaf,38,female,asian,0.0,14122,MX,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,258.0
+6014a582-d22e-46e1-9000-c8e2fbad7acf,50,female,white,0.0,18270,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2605.0
+6014a582-d22e-46e1-9000-c8e2fbad7acf,50,female,white,0.0,18270,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2605.0
+602083f0-18d9-48b6-a529-31e165c54b37,56,female,white,0.0,20804,M0,N1a,Stage IIB,T2,,8503/3,Intraductal papillary adenocarcinoma with invasion,no,No,"Breast, NOS",2009,yes,72.0
+602083f0-18d9-48b6-a529-31e165c54b37,56,female,white,0.0,20804,M0,N1a,Stage IIB,T2,,8503/3,Intraductal papillary adenocarcinoma with invasion,no,No,"Breast, NOS",2009,no,72.0
+6020d1b4-ee20-4cc9-82a3-340b5e3122f1,49,female,white,0.0,18025,M0,N2a,Stage IIIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,499.0
+6020d1b4-ee20-4cc9-82a3-340b5e3122f1,49,female,white,0.0,18025,M0,N2a,Stage IIIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,499.0
+606fbc6a-b41b-441d-9401-51e54912bf5e,52,female,white,0.0,19192,M0,N1,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,477.0
+606fbc6a-b41b-441d-9401-51e54912bf5e,52,female,white,0.0,19192,M0,N1,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,477.0
+60df7543-6da5-4c75-943b-5800c1e08234,55,female,black or african american,0.0,20105,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,972.0
+60df7543-6da5-4c75-943b-5800c1e08234,55,female,black or african american,0.0,20105,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,972.0
+61204cdf-3b1c-44a1-bda6-0fef1ac4a333,45,female,not reported,1.0,16672,M0,N1,Stage IIB,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",,yes,1900.0
+61204cdf-3b1c-44a1-bda6-0fef1ac4a333,45,female,not reported,1.0,16672,M0,N1,Stage IIB,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",,yes,1900.0
+623befd6-0ca4-4a6c-9cf5-d9385c3b718f,47,female,white,0.0,17332,M0,N1,Stage IIA,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2618.0
+623befd6-0ca4-4a6c-9cf5-d9385c3b718f,47,female,white,0.0,17332,M0,N1,Stage IIA,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2618.0
+626b4ff0-2188-4a14-aac8-6703c624917f,75,female,not reported,0.0,27455,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1006.0
+626b4ff0-2188-4a14-aac8-6703c624917f,75,female,not reported,0.0,27455,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1006.0
+62d70067-ff77-4f95-8b69-f537abaf74ce,77,female,white,0.0,28444,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,431.0
+62d70067-ff77-4f95-8b69-f537abaf74ce,77,female,white,0.0,28444,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,431.0
+632984bd-dc81-42b6-b024-476cfd0bb2ae,61,female,white,0.0,22317,MX,N2a,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,430.0
+632984bd-dc81-42b6-b024-476cfd0bb2ae,61,female,white,0.0,22317,MX,N2a,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,430.0
+636b0a90-c8c2-4ad6-a77d-6cd428a826d1,59,female,white,0.0,21562,M0,N0 (i-),Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1186.0
+636b0a90-c8c2-4ad6-a77d-6cd428a826d1,59,female,white,0.0,21562,M0,N0 (i-),Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1186.0
+6397d7bc-9cb1-4a84-81ad-76954e0a8cee,67,female,white,0.0,24788,M0,N3a,Stage IIIC,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2191.0
+6397d7bc-9cb1-4a84-81ad-76954e0a8cee,67,female,white,0.0,24788,M0,N3a,Stage IIIC,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2191.0
+64089c20-939f-48b4-ae8b-904ad0597145,44,female,white,0.0,16163,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,1692.0
+64089c20-939f-48b4-ae8b-904ad0597145,44,female,white,0.0,16163,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1692.0
+6412854a-f874-469e-9d1f-8bd3ae5bd41d,52,female,not reported,0.0,19298,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,not reported,30.0
+6412854a-f874-469e-9d1f-8bd3ae5bd41d,52,female,not reported,0.0,19298,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,not reported,30.0
+6429c443-8ac3-407f-bb9c-66420b904bbf,48,female,black or african american,0.0,17689,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1062.0
+6429c443-8ac3-407f-bb9c-66420b904bbf,48,female,black or african american,0.0,17689,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1062.0
+6439621e-da61-4723-91cc-c5d87d0a4abc,66,female,not reported,0.0,24279,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,no,2288.0
+6439621e-da61-4723-91cc-c5d87d0a4abc,66,female,not reported,0.0,24279,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,no,2288.0
+64975923-d032-4182-8565-59fc37127d8d,61,female,white,0.0,22448,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,506.0
+64975923-d032-4182-8565-59fc37127d8d,61,female,white,0.0,22448,M0,N1a,Stage IIA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,506.0
+64d4dfae-8d91-464b-adc3-80ba7caf54ae,56,female,white,0.0,20574,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1269.0
+64d4dfae-8d91-464b-adc3-80ba7caf54ae,56,female,white,0.0,20574,M0,N2,Stage IIIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1269.0
+64f67506-f2df-4f0a-b7be-29b4949e986a,39,female,white,1.0,14250,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,no,1920.0
+64f67506-f2df-4f0a-b7be-29b4949e986a,39,female,white,1.0,14250,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,1920.0
+65077db7-dd59-4362-9d28-d5a9154e9be0,61,female,asian,0.0,22598,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,297.0
+65077db7-dd59-4362-9d28-d5a9154e9be0,61,female,asian,0.0,22598,M0,N2,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,297.0
+659b0170-e914-45ff-aa55-fcb8d3dc7b8a,62,female,white,1.0,22896,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,786.0
+659b0170-e914-45ff-aa55-fcb8d3dc7b8a,62,female,white,1.0,22896,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,786.0
+65cac997-4d39-4501-85ec-4fcb328a8eb5,49,female,black or african american,0.0,18171,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2108.0
+65cac997-4d39-4501-85ec-4fcb328a8eb5,49,female,black or african american,0.0,18171,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2108.0
+65cde5d5-1efc-4e30-b1bd-a93598794f2c,62,female,asian,0.0,22889,M0,N1,Stage IIB,T2,6th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2010,yes,385.0
+65cde5d5-1efc-4e30-b1bd-a93598794f2c,62,female,asian,0.0,22889,M0,N1,Stage IIB,T2,6th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2010,no,385.0
+66072c06-f251-4f0b-b6ae-12b407c52cc6,51,female,white,0.0,18851,M0,N1,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,not reported,54.0
+66072c06-f251-4f0b-b6ae-12b407c52cc6,51,female,white,0.0,18851,M0,N1,Stage IIB,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,not reported,54.0
+6623fc5e-00be-4476-967a-cbd55f676ea6,50,female,white,0.0,18371,M0,N2a,Stage IIIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2013,yes,348.0
+6623fc5e-00be-4476-967a-cbd55f676ea6,50,female,white,0.0,18371,M0,N2a,Stage IIIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2013,no,348.0
+6644fd4e-d2fe-4785-a73c-0f36fcc740e2,67,female,white,0.0,24826,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,852.0
+6644fd4e-d2fe-4785-a73c-0f36fcc740e2,67,female,white,0.0,24826,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,852.0
+665dd3d3-779c-4abd-b5d7-13342340451d,88,female,white,1.0,32404,M0,N1b,Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2001,no,468.0
+665dd3d3-779c-4abd-b5d7-13342340451d,88,female,white,1.0,32404,M0,N1b,Stage IIA,T2,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2001,no,468.0
+66af34ea-f471-4092-aff6-9ac9a5b75b11,56,female,black or african american,0.0,20776,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2477.0
+66af34ea-f471-4092-aff6-9ac9a5b75b11,56,female,black or african american,0.0,20776,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2477.0
+66fa504c-4ae4-49ac-9355-1e063776dc0d,52,female,white,0.0,19030,M0,N0 (i+),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2590.0
+66fa504c-4ae4-49ac-9355-1e063776dc0d,52,female,white,0.0,19030,M0,N0 (i+),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,no,2590.0
+670f5022-5066-48f1-8472-5670129a1e0f,56,female,white,0.0,20585,M0,N0 (i+),Stage I,T1,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2004,no,3603.0
+670f5022-5066-48f1-8472-5670129a1e0f,56,female,white,0.0,20585,M0,N0 (i+),Stage I,T1,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2004,yes,3603.0
+67526f5a-3a30-45b2-aeab-2b21a855063e,55,female,white,0.0,20123,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,no,1550.0
+67526f5a-3a30-45b2-aeab-2b21a855063e,55,female,white,0.0,20123,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1550.0
+67c5f371-3fa9-47c5-8b15-c2dd9acc8519,58,female,white,0.0,21488,MX,N0,Stage IIB,T3,7th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1005.0
+67c5f371-3fa9-47c5-8b15-c2dd9acc8519,58,female,white,0.0,21488,MX,N0,Stage IIB,T3,7th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2011,yes,1005.0
+67c73260-a242-4bba-87c5-d2302556dff7,50,female,white,0.0,18535,M0,N1mi,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,762.0
+67c73260-a242-4bba-87c5-d2302556dff7,50,female,white,0.0,18535,M0,N1mi,Stage IIIA,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,762.0
+67c8dc41-edcb-4563-96b3-3f93f9edcbe9,63,female,white,0.0,23215,M0,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,no,412.0
+67c8dc41-edcb-4563-96b3-3f93f9edcbe9,63,female,white,0.0,23215,M0,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,412.0
+67eef990-5ff4-45d1-843d-d22d7848f130,78,female,white,0.0,28596,M0,N0 (i-),Stage IIA,T2,,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2010,no,1043.0
+67eef990-5ff4-45d1-843d-d22d7848f130,78,female,white,0.0,28596,M0,N0 (i-),Stage IIA,T2,,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2010,yes,1043.0
+680f23a9-fcce-493e-b908-27c1ad202e4c,66,female,white,0.0,24315,M0,N0,Stage IA,T1c,7th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",2010,yes,530.0
+680f23a9-fcce-493e-b908-27c1ad202e4c,66,female,white,0.0,24315,M0,N0,Stage IA,T1c,7th,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",2010,yes,530.0
+68177e92-4784-45d9-af14-4ce0c00eae74,52,female,not reported,1.0,19266,M1,N3,Stage IV,T4b,6th,8541/3,Paget disease and infiltrating duct carcinoma of breast,no,No,"Breast, NOS",2005,not reported,1127.0
+68177e92-4784-45d9-af14-4ce0c00eae74,52,female,not reported,1.0,19266,M1,N3,Stage IV,T4b,6th,8541/3,Paget disease and infiltrating duct carcinoma of breast,no,No,"Breast, NOS",2005,no,1127.0
+69054195-9e93-49e5-b820-69b0091cc2d4,60,female,not reported,0.0,22157,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,396.0
+69054195-9e93-49e5-b820-69b0091cc2d4,60,female,not reported,0.0,22157,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,no,396.0
+6951fe6a-d7d1-4f41-85af-76655b5d1f62,53,female,asian,0.0,19432,M0,N1,Stage IIB,T2,7th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2013,no,380.0
+6951fe6a-d7d1-4f41-85af-76655b5d1f62,53,female,asian,0.0,19432,M0,N1,Stage IIB,T2,7th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2013,no,380.0
+6956473b-92e5-4069-a26b-b48e280e76f2,40,female,white,0.0,14920,M0,N0 (i-),Stage IA,T1c,3rd,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",1990,yes,8605.0
+6956473b-92e5-4069-a26b-b48e280e76f2,40,female,white,0.0,14920,M0,N0 (i-),Stage IA,T1c,3rd,8523/3,Infiltrating duct mixed with other types of carcinoma,no,No,"Breast, NOS",1990,yes,8605.0
+69a68fbc-e43d-4652-85ee-693211bded47,41,female,white,0.0,15055,M0,N2,Stage IIIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1000.0
+69a68fbc-e43d-4652-85ee-693211bded47,41,female,white,0.0,15055,M0,N2,Stage IIIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1000.0
+69fc24fc-cfe2-487a-935f-1a954b30b709,62,female,black or african american,0.0,22772,MX,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,996.0
+69fc24fc-cfe2-487a-935f-1a954b30b709,62,female,black or african american,0.0,22772,MX,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2012,yes,996.0
+6a186809-3422-41d0-83d2-867145830936,56,female,white,0.0,20606,M0,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1682.0
+6a186809-3422-41d0-83d2-867145830936,56,female,white,0.0,20606,M0,N1a,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,yes,1682.0
+6a2972e3-cca9-47e5-aac0-b770f2399eeb,53,female,white,1.0,19701,M0,N1b,Stage IIIB,T4b,5th,8541/3,Paget disease and infiltrating duct carcinoma of breast,no,No,"Breast, NOS",1999,not reported,959.0
+6a2972e3-cca9-47e5-aac0-b770f2399eeb,53,female,white,1.0,19701,M0,N1b,Stage IIIB,T4b,5th,8541/3,Paget disease and infiltrating duct carcinoma of breast,no,No,"Breast, NOS",1999,not reported,959.0
+6adca853-1b09-47ff-814c-47b732a76d96,49,female,asian,0.0,18140,M0,N1,Stage IIIB,T4,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,385.0
+6adca853-1b09-47ff-814c-47b732a76d96,49,female,asian,0.0,18140,M0,N1,Stage IIIB,T4,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,385.0
+6af6d256-a753-46d2-b611-e4094ff265aa,69,female,white,0.0,25477,MX,N3a,Stage IIIC,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2013,yes,532.0
+6af6d256-a753-46d2-b611-e4094ff265aa,69,female,white,0.0,25477,MX,N3a,Stage IIIC,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2013,yes,532.0
+6b4e0262-f589-4532-b578-9f2d76c19d90,71,female,white,0.0,26042,M0,N0,Stage I,T1c,7th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2011,yes,345.0
+6b4e0262-f589-4532-b578-9f2d76c19d90,71,female,white,0.0,26042,M0,N0,Stage I,T1c,7th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2011,yes,345.0
+6b923e30-2ddc-407f-91b1-c202f1373fbb,80,female,asian,0.0,29463,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,not reported,0.0
+6b923e30-2ddc-407f-91b1-c202f1373fbb,80,female,asian,0.0,29463,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,not reported,0.0
+6b960b58-28e1-41c6-bd6e-7e669c6aa4ef,48,female,white,1.0,17682,M0,N1b,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,Upper-outer quadrant of breast,2001,not reported,1556.0
+6b960b58-28e1-41c6-bd6e-7e669c6aa4ef,48,female,white,1.0,17682,M0,N1b,Stage IIB,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,Upper-outer quadrant of breast,2001,not reported,1556.0
+6bc4c56d-aac5-49a2-9913-9538d06d898f,80,female,not reported,1.0,29525,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2008,no,883.0
+6bc4c56d-aac5-49a2-9913-9538d06d898f,80,female,not reported,1.0,29525,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2008,not reported,883.0
+6c0066e3-96df-4870-bcd3-98cda64082e9,69,female,white,0.0,25408,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,293.0
+6c0066e3-96df-4870-bcd3-98cda64082e9,69,female,white,0.0,25408,M0,N0 (i-),Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,293.0
+6cb6f179-defd-4661-af0a-c353b74c0c49,49,female,white,0.0,17930,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,yes,627.0
+6cb6f179-defd-4661-af0a-c353b74c0c49,49,female,white,0.0,17930,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2011,no,627.0
+6cd9baf5-bbe0-4c1e-a87f-c53b3af22890,79,female,white,0.0,28969,MX,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2010,no,718.0
+6cd9baf5-bbe0-4c1e-a87f-c53b3af22890,79,female,white,0.0,28969,MX,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2010,yes,718.0
+6cdc0d53-f813-4101-81e5-9bee68270536,46,female,white,0.0,17152,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,1928.0
+6cdc0d53-f813-4101-81e5-9bee68270536,46,female,white,0.0,17152,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1928.0
+6d24e675-2fa4-4102-861f-7516650b3049,49,female,black or african american,0.0,18041,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2013,yes,450.0
+6d24e675-2fa4-4102-861f-7516650b3049,49,female,black or african american,0.0,18041,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",2013,yes,450.0
+6d4860b2-21c6-4b7b-9093-2f32700d0612,40,female,black or african american,0.0,14853,MX,N0,Stage IIB,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,973.0
+6d4860b2-21c6-4b7b-9093-2f32700d0612,40,female,black or african american,0.0,14853,MX,N0,Stage IIB,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,973.0
+6dd0dd7b-62ff-4fd1-a99a-b265f1a91dca,34,female,white,1.0,12525,M0,N0,Stage IIA,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1997,not reported,2192.0
+6dd0dd7b-62ff-4fd1-a99a-b265f1a91dca,34,female,white,1.0,12525,M0,N0,Stage IIA,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1997,not reported,2192.0
+6ddaee34-46eb-490c-bd13-f0ab963c4322,63,female,white,0.0,23041,M0,N0 (i-),Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2003,yes,3361.0
+6ddaee34-46eb-490c-bd13-f0ab963c4322,63,female,white,0.0,23041,M0,N0 (i-),Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2003,no,3361.0
+6e126b73-d3e8-4641-a128-306f3b313e40,84,female,white,0.0,31003,M0,N0 (i-),Stage IIB,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,677.0
+6e126b73-d3e8-4641-a128-306f3b313e40,84,female,white,0.0,31003,M0,N0 (i-),Stage IIB,T3,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,677.0
+6e6408d6-6c48-4dfc-9f1c-28b7386e87b4,46,female,white,1.0,17073,M0,NX,Stage X,T1,4th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",1992,yes,749.0
+6e6408d6-6c48-4dfc-9f1c-28b7386e87b4,46,female,white,1.0,17073,M0,NX,Stage X,T1,4th,8500/3,"Infiltrating duct carcinoma, NOS",yes,No,"Breast, NOS",1992,yes,749.0
+6e6b7742-a562-490b-bb72-04a5653852e4,62,female,white,0.0,22883,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2406.0
+6e6b7742-a562-490b-bb72-04a5653852e4,62,female,white,0.0,22883,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2406.0
+6e7d5ec6-a469-467c-b748-237353c23416,55,female,white,0.0,20211,MX,NX,Stage X,TX,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2004,no,4047.0
+6e7d5ec6-a469-467c-b748-237353c23416,55,female,white,0.0,20211,MX,NX,Stage X,TX,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2004,yes,4047.0
+6f0fd68f-ed6a-4c9e-be02-c97ba4950f76,46,female,white,0.0,16948,M0,N1a,Stage IIIA,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1330.0
+6f0fd68f-ed6a-4c9e-be02-c97ba4950f76,46,female,white,0.0,16948,M0,N1a,Stage IIIA,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1330.0
+6f18f96e-c0c9-4cc4-9fb2-cba8949d5402,90,female,black or african american,0.0,32872,MX,N3a,Stage IIIC,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,0.0
+6f18f96e-c0c9-4cc4-9fb2-cba8949d5402,90,female,black or african american,0.0,32872,MX,N3a,Stage IIIC,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2013,yes,0.0
+6f4c8d30-47fb-47df-9eb7-4e5881e3711e,79,female,white,0.0,29113,MX,N1mi,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,675.0
+6f4c8d30-47fb-47df-9eb7-4e5881e3711e,79,female,white,0.0,29113,MX,N1mi,Stage IIB,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,yes,675.0
+6f6afd31-b5dd-48ab-b18f-6390ba18a5f0,45,female,white,0.0,16787,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,463.0
+6f6afd31-b5dd-48ab-b18f-6390ba18a5f0,45,female,white,0.0,16787,M0,N0,Stage IIA,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,463.0
+6f6e7356-3521-4674-8eec-ad01340d4b8e,75,female,white,0.0,27521,M0,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,no,409.0
+6f6e7356-3521-4674-8eec-ad01340d4b8e,75,female,white,0.0,27521,M0,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2010,no,409.0
+6f89509c-f802-482e-b4da-94553aa76fe9,65,female,white,0.0,24046,M0,N0,Stage IIA,T2,5th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2001,yes,4894.0
+6f89509c-f802-482e-b4da-94553aa76fe9,65,female,white,0.0,24046,M0,N0,Stage IIA,T2,5th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2001,yes,4894.0
+6f959c92-b79f-4f84-9ee5-d07d3212d52d,68,female,not reported,0.0,24960,M0,N1,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,Yes,"Breast, NOS",2008,no,912.0
+6f959c92-b79f-4f84-9ee5-d07d3212d52d,68,female,not reported,0.0,24960,M0,N1,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",yes,Yes,"Breast, NOS",2008,no,912.0
+6fa2a667-9c36-4526-8a58-1975e863a806,78,female,black or african american,0.0,28625,MX,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2222.0
+6fa2a667-9c36-4526-8a58-1975e863a806,78,female,black or african american,0.0,28625,MX,N2a,Stage IIIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2222.0
+6ffd1b8c-6f0b-456a-9160-e0c8021e5897,67,female,black or african american,0.0,24735,M0,N0,Stage IIB,T3,7th,9020/3,"Phyllodes tumor, malignant",no,No,"Breast, NOS",2013,not reported,271.0
+6ffd1b8c-6f0b-456a-9160-e0c8021e5897,67,female,black or african american,0.0,24735,M0,N0,Stage IIB,T3,7th,9020/3,"Phyllodes tumor, malignant",no,No,"Breast, NOS",2013,no,271.0
+7032ec9c-e96b-4642-a7b6-d0aee7a3add2,80,female,white,0.0,29285,M0,N0 (i-),Stage IA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,968.0
+7032ec9c-e96b-4642-a7b6-d0aee7a3add2,80,female,white,0.0,29285,M0,N0 (i-),Stage IA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,968.0
+70931617-b3df-4a12-8e3f-2b2307602f48,77,female,not reported,1.0,28338,M0,N0,Stage IIB,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,not reported,943.0
+70931617-b3df-4a12-8e3f-2b2307602f48,77,female,not reported,1.0,28338,M0,N0,Stage IIB,T3,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,943.0
+70ab4f23-23c4-409f-a5cc-18a010c3a24e,58,female,asian,0.0,21463,M0,N1,Stage IIA,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,376.0
+70ab4f23-23c4-409f-a5cc-18a010c3a24e,58,female,asian,0.0,21463,M0,N1,Stage IIA,T1,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,376.0
+70f34c5c-3671-44c8-9469-99f9786efec1,56,female,white,0.0,20488,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,482.0
+70f34c5c-3671-44c8-9469-99f9786efec1,56,female,white,0.0,20488,M0,N1a,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,482.0
+70fc011c-0f22-4026-9d72-87351126203a,70,female,white,0.0,25747,M0,N0,Stage IIB,T3,6th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2007,no,2012.0
+70fc011c-0f22-4026-9d72-87351126203a,70,female,white,0.0,25747,M0,N0,Stage IIB,T3,6th,8520/3,"Lobular carcinoma, NOS",yes,No,"Breast, NOS",2007,yes,2012.0
+71229981-97c2-4ae1-a130-fe5de336b37d,43,female,asian,0.0,,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,not reported,0.0
+71229981-97c2-4ae1-a130-fe5de336b37d,43,female,asian,0.0,,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,not reported,0.0
+71626753-cc34-4731-abc0-ae188b0964e7,42,female,white,0.0,15469,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2372.0
+71626753-cc34-4731-abc0-ae188b0964e7,42,female,white,0.0,15469,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2372.0
+718db047-9f32-48c4-98c9-515218441bca,74,female,white,0.0,27341,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,1138.0
+718db047-9f32-48c4-98c9-515218441bca,74,female,white,0.0,27341,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,no,1138.0
+719082cc-1ebe-4a51-a659-85a59db1d77d,41,female,not reported,0.0,14976,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,607.0
+719082cc-1ebe-4a51-a659-85a59db1d77d,41,female,not reported,0.0,14976,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,607.0
+71f97b63-c970-44ee-98c2-e02e663d5a40,54,female,white,0.0,19729,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,3261.0
+71f97b63-c970-44ee-98c2-e02e663d5a40,54,female,white,0.0,19729,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,no,3261.0
+71fc8941-4cfb-47ea-a533-873d38f8c95c,37,female,white,0.0,13671,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1855.0
+71fc8941-4cfb-47ea-a533-873d38f8c95c,37,female,white,0.0,13671,M0,N0,Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,1855.0
+7241b3d4-31ee-4fd2-a4a5-35a9d5f37d6a,46,female,white,0.0,17039,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2008,yes,984.0
+7241b3d4-31ee-4fd2-a4a5-35a9d5f37d6a,46,female,white,0.0,17039,M0,N0,Stage IIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2008,yes,984.0
+726c6892-0dce-4869-a7a7-cc44c26fe843,49,female,white,0.0,18038,M0,N1,Stage IIB,T2,7th,8524/3,Infiltrating lobular mixed with other types of carcinoma,no,No,"Breast, NOS",2013,yes,592.0
+726c6892-0dce-4869-a7a7-cc44c26fe843,49,female,white,0.0,18038,M0,N1,Stage IIB,T2,7th,8524/3,Infiltrating lobular mixed with other types of carcinoma,no,No,"Breast, NOS",2013,yes,592.0
+72cd1b17-d349-4551-83f7-3062ce9db865,62,female,white,0.0,22961,M0,N0 (i+),Stage I,T1c,6th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2009,yes,1505.0
+72cd1b17-d349-4551-83f7-3062ce9db865,62,female,white,0.0,22961,M0,N0 (i+),Stage I,T1c,6th,8522/3,Infiltrating duct and lobular carcinoma,no,No,"Breast, NOS",2009,yes,1505.0
+72e486b8-a866-4916-b2e4-8b4bb5dcd92d,80,female,not reported,0.0,29251,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,not reported,273.0
+72e486b8-a866-4916-b2e4-8b4bb5dcd92d,80,female,not reported,0.0,29251,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,not reported,273.0
+7317e605-93ba-49a9-8743-20613b02767a,71,female,white,1.0,26239,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,879.0
+7317e605-93ba-49a9-8743-20613b02767a,71,female,white,1.0,26239,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,879.0
+733a2a0f-b37a-4b81-b49e-3c0f30d1eb37,34,female,white,0.0,12642,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,no,1686.0
+733a2a0f-b37a-4b81-b49e-3c0f30d1eb37,34,female,white,0.0,12642,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1686.0
+738e1acc-1f0c-4a96-9c8a-222727ef5af8,40,female,white,0.0,14723,MX,N1,Stage IIIA,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2632.0
+738e1acc-1f0c-4a96-9c8a-222727ef5af8,40,female,white,0.0,14723,MX,N1,Stage IIIA,T3,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2632.0
+739cb132-51e9-41be-8064-311a13da0d74,64,female,white,0.0,23387,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,839.0
+739cb132-51e9-41be-8064-311a13da0d74,64,female,white,0.0,23387,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,839.0
+73ccc949-01b7-48d3-a7c4-c4bcd261672a,45,female,white,0.0,16750,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,710.0
+73ccc949-01b7-48d3-a7c4-c4bcd261672a,45,female,white,0.0,16750,M0,N3a,Stage IIIC,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,710.0
+7451af3c-acc0-4d79-8429-6b8be96911d8,79,female,white,0.0,29184,M0,N0,Stage IIA,T2,7th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2012,yes,408.0
+7451af3c-acc0-4d79-8429-6b8be96911d8,79,female,white,0.0,29184,M0,N0,Stage IIA,T2,7th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2012,yes,408.0
+7455d832-ad66-40df-85d7-3a7051c4498d,63,female,white,0.0,23021,M0,N1mi,Stage IB,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2263.0
+7455d832-ad66-40df-85d7-3a7051c4498d,63,female,white,0.0,23021,M0,N1mi,Stage IB,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2005,yes,2263.0
+747083ff-0703-431b-aad4-f2adff739516,81,female,white,0.0,29820,M0,N0,Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,Lower-outer quadrant of breast,2010,no,149.0
+747083ff-0703-431b-aad4-f2adff739516,81,female,white,0.0,29820,M0,N0,Stage IA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,Lower-outer quadrant of breast,2010,yes,149.0
+7486a2b3-b09f-4e9c-9864-8b51b58d9fb3,49,female,white,0.0,17969,MX,N3a,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2013,yes,373.0
+7486a2b3-b09f-4e9c-9864-8b51b58d9fb3,49,female,white,0.0,17969,MX,N3a,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2013,yes,373.0
+74f31744-0aed-4633-beec-4e203315f0b7,41,female,white,0.0,15078,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2403.0
+74f31744-0aed-4633-beec-4e203315f0b7,41,female,white,0.0,15078,M0,N1a,Stage IIA,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,2403.0
+75113445-d2d6-44a0-866c-c9175e6d214b,37,female,black or african american,0.0,13805,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,767.0
+75113445-d2d6-44a0-866c-c9175e6d214b,37,female,black or african american,0.0,13805,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,767.0
+752ad011-79e0-494f-9868-98bf6feb28f8,37,female,white,0.0,13743,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1434.0
+752ad011-79e0-494f-9868-98bf6feb28f8,37,female,white,0.0,13743,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1434.0
+752f4773-5a12-4485-a1f6-896e148ddf4d,73,female,white,0.0,26862,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,639.0
+752f4773-5a12-4485-a1f6-896e148ddf4d,73,female,white,0.0,26862,M0,N0,Stage IA,T1c,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,639.0
+753d5d49-3b40-4737-9d4c-b1ec29cc2692,57,female,white,0.0,21160,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,yes,3226.0
+753d5d49-3b40-4737-9d4c-b1ec29cc2692,57,female,white,0.0,21160,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2004,yes,3226.0
+757df7b0-4774-4493-98bf-999ded9ac86e,63,female,white,0.0,23229,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,no,1673.0
+757df7b0-4774-4493-98bf-999ded9ac86e,63,female,white,0.0,23229,M0,N1,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2006,yes,1673.0
+7588a286-6935-424a-bc5f-92e24c83eb37,67,female,white,1.0,24803,M0,N1b,Stage IIB,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1995,no,2417.0
+7588a286-6935-424a-bc5f-92e24c83eb37,67,female,white,1.0,24803,M0,N1b,Stage IIB,T2,4th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",1995,yes,2417.0
+75b3fe55-1a63-426e-867e-2ef52f54778d,47,female,black or african american,0.0,17314,M0,N0 (i-),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,2281.0
+75b3fe55-1a63-426e-867e-2ef52f54778d,47,female,black or african american,0.0,17314,M0,N0 (i-),Stage I,T1c,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,2281.0
+75b5529b-565a-4eba-918a-910b2f441d32,85,female,white,0.0,31223,M0,N1,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,yes,584.0
+75b5529b-565a-4eba-918a-910b2f441d32,85,female,white,0.0,31223,M0,N1,Stage IIB,T2,7th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2010,no,584.0
+75f6e476-233a-409c-a3ef-0240be569813,46,female,asian,0.0,,M0,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,no,352.0
+75f6e476-233a-409c-a3ef-0240be569813,46,female,asian,0.0,,M0,N0,Stage IIA,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,no,352.0
+76099beb-0abe-4b56-8b4e-e4485e0402e6,72,female,white,1.0,26514,M0,N2a,Stage IIIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2005,yes,1430.0
+76099beb-0abe-4b56-8b4e-e4485e0402e6,72,female,white,1.0,26514,M0,N2a,Stage IIIA,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2005,yes,1430.0
+76ace6aa-0505-442c-978a-f889cf2d44bb,53,female,white,0.0,19415,M0,N1a,Stage IIB,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2489.0
+76ace6aa-0505-442c-978a-f889cf2d44bb,53,female,white,0.0,19415,M0,N1a,Stage IIB,T2,6th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2006,yes,2489.0
+76bd9bb9-9a8b-4a90-bb7c-eafe76472ee4,74,female,black or african american,0.0,27280,MX,N1mi,Stage IB,T1c,7th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2012,yes,812.0
+76bd9bb9-9a8b-4a90-bb7c-eafe76472ee4,74,female,black or african american,0.0,27280,MX,N1mi,Stage IB,T1c,7th,8480/3,Mucinous adenocarcinoma,no,No,"Breast, NOS",2012,no,812.0
+77e25ae8-82ec-4dea-8e62-1176f27e47ba,54,female,white,0.0,19846,M0,N3a,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,no,1015.0
+77e25ae8-82ec-4dea-8e62-1176f27e47ba,54,female,white,0.0,19846,M0,N3a,Stage IIIC,T2,7th,8520/3,"Lobular carcinoma, NOS",no,No,"Breast, NOS",2011,no,1015.0
+784de7ac-8424-42eb-83d4-a1bebaa42b97,77,male,white,0.0,28198,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,242.0
+784de7ac-8424-42eb-83d4-a1bebaa42b97,77,male,white,0.0,28198,M0,N0 (i-),Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,not reported,242.0
+78582fbc-dcc7-48ae-9f95-5271c9bc5b72,48,female,white,0.0,17759,MX,N0 (i-),Stage IIA,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2001,no,3957.0
+78582fbc-dcc7-48ae-9f95-5271c9bc5b72,48,female,white,0.0,17759,MX,N0 (i-),Stage IIA,T2,5th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2001,yes,3957.0
+7861a5f2-8910-4bcb-9c34-f79c5acd6e21,42,female,not reported,0.0,15369,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,518.0
+7861a5f2-8910-4bcb-9c34-f79c5acd6e21,42,female,not reported,0.0,15369,M0,N1a,Stage IIB,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2009,yes,518.0
+786e8dbe-442e-4551-87b3-b4c333b04dd4,82,female,white,0.0,30025,M0,N0 (i-),Stage I,T1c,6th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2008,no,701.0
+786e8dbe-442e-4551-87b3-b4c333b04dd4,82,female,white,0.0,30025,M0,N0 (i-),Stage I,T1c,6th,8575/3,"Metaplastic carcinoma, NOS",no,No,"Breast, NOS",2008,no,701.0
+7875018b-91dc-4ab1-83b0-ee3883e2816e,62,female,white,0.0,23006,M0,N1a,Stage IIA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1270.0
+7875018b-91dc-4ab1-83b0-ee3883e2816e,62,female,white,0.0,23006,M0,N1a,Stage IIA,T1c,,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2007,yes,1270.0
+78e1da41-127c-4e9c-aaaa-77a0d94c31d0,65,female,not reported,0.0,24017,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,881.0
+78e1da41-127c-4e9c-aaaa-77a0d94c31d0,65,female,not reported,0.0,24017,M0,N0,Stage IIA,T2,6th,8500/3,"Infiltrating duct carcinoma, NOS",no,No,"Breast, NOS",2008,yes,881.0
