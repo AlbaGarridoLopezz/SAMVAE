@@ -64,6 +64,9 @@ If you want to display comparison results between SAVAE and SOTA models, run the
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- Interactive HTMLs -->
+🔗 [Multimodal Survival Analysis for BRCA](https://AlbaGarridoLopezz/SAMVAE/savae-main/htmls/interactive_plot_brca_sa.html)
+
 
 [//]: # (<!-- LICENSE -->)
 
