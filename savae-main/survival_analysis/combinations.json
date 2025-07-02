@@ -1,0 +1,26 @@
+[
+    {
+        "clinical_dataset": ["lgg_clinical"],
+        "omic_dataset": ["lgg_adn", "lgg_cnv", "lgg_miRNA", "lgg_RNAseq"],
+        "wsi_dataset": ["lgg_patches"],
+        "time_event": ["lgg_time_event"]
+    },
+    {
+        "clinical_dataset": ["brca_clinical"],
+        "omic_dataset": ["brca_adn", "brca_cnv", "brca_miRNA", "brca_RNAseq"],
+        "wsi_dataset": ["brca_patches"],
+        "time_event": ["brca_time_event"]
+    },
+    {
+        "clinical_dataset": ["lgg_clinical_cr"],
+        "omic_dataset": ["lgg_adn", "lgg_cnv", "lgg_miRNA", "lgg_RNAseq"],
+        "wsi_dataset": ["lgg_patches"],
+        "time_event": ["lgg_time_event_cr"]
+    },
+    {
+        "clinical_dataset": ["brca_clinical_cr"],
+        "omic_dataset": ["brca_adn", "brca_cnv", "brca_miRNA", "brca_RNAseq"],
+        "wsi_dataset": ["brca_patches"],
+        "time_event": ["brca_time_event_cr"]
+    }    
+]

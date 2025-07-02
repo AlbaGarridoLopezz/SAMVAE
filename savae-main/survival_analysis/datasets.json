@@ -1,0 +1,8 @@
+[ 
+    {
+        "clinical_dataset": ["lgg_clinical"],
+        "omic_dataset": ["lgg_cnv"],
+        "wsi_dataset":null,
+        "time_event": ["lgg_time_event"]
+    } 
+]
