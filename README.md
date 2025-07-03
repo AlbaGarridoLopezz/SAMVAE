@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-## SAMVAE 🪇
+## SAMVAE🪇
 
 Survival Analysis Multimodal model based on Variational Autoencoders. 
 
