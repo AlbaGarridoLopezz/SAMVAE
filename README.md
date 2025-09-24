@@ -11,6 +11,8 @@ This repository provides:
 * A script to generate plots and interactive HTML visualizations.
 * A script to generate result tables as presented in the paper.
 
+For more details, see the full paper: [Deep Survival Analysis in Multimodal Medical Data](https://doi.org/10.48550/arXiv.2507.07804).
+
 <!-- GETTING STARTED -->
 ## Getting Started
 Follow these simple steps to make this project work on your local machine.
