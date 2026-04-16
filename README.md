@@ -56,7 +56,21 @@ To view the result tables, check the `.txt` files located in the `results` folde
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- Supplementary Material -->
+## Supplementary Material
+🔗 [Partial Dependence of Cumulative Incidence Function (CIF)](https://github.com/AlbaGarridoLopezz/SAMVAE/blob/main/samvae-main/supplementary_tests/partial_dependence_cif.ipynb)
+
+🔗 [Case Study: Modality Trajectories](https://github.com/AlbaGarridoLopezz/SAMVAE/blob/main/samvae-main/supplementary_tests/case_study_modality_trajectories.ipynb)
+
+🔗 [Sensitivity Analysis of SAMVAE](https://github.com/AlbaGarridoLopezz/SAMVAE/blob/main/samvae-main/supplementary_tests/sensitive_analysis_samvae.ipynb)
+
+🔗 [Confidence Interval Tables](https://github.com/AlbaGarridoLopezz/SAMVAE/blob/main/samvae-main/supplementary_tests/tables_CI.ipynb)
+
+🔗 [Seed Variability Analysis](https://github.com/AlbaGarridoLopezz/SAMVAE/blob/main/samvae-main/supplementary_tests/seed_variability.ipynb)
+
+
 <!-- Interactive HTMLs -->
+## Interactive HTMLs
 🔗 [Multimodal Survival Analysis Models for Breast Cancer vs Kaplan-Meier](https://albagarridolopezz.github.io/SAMVAE/interactive_plot_brca_sa.html)
 
 🔗 [Multimodal Survival Analysis Models for Lower Grade Glioma vs Kaplan-Meier](https://albagarridolopezz.github.io/SAMVAE/interactive_plot_lgg_sa.html)
