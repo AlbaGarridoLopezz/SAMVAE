@@ -1,0 +1,8 @@
+task,dataset,modality,experiment,model_params,n_seeds,ci_top3_reported,ci_all10,ci_gap_top3_minus_all10,ibs_top3_reported,ibs_all10,ibs_gap_all10_minus_top3
+SA,LGG,clinical,clinical | 5_folds_1_batch_size,[10]_[10],10,0.7253,0.6968,0.0285,0.1876,0.2009,0.0133
+SA,LGG,clinical_omic_adn,clinical_omic_adn | 5_folds_1_batch_size,"[10, 5]_[10, 50]",10,0.7032,0.6729,0.0303,0.1888,0.197,0.0082
+SA,LGG,clinical_omic_adn_wsi_patches_10_patch,clinical_omic_adn_wsi_patches_10_patch | 5_folds_1_batch_size,"[10, 5, 5]_[10, 50, [8, 16, 32]]",10,0.7293,0.6925,0.0368,0.192,0.2001,0.0081
+SA,LGG,clinical_wsi_patches_10_patch,clinical_wsi_patches_10_patch | 5_folds_1_batch_size,"[10, 5]_[10, [8, 16, 32]]",10,0.7398,0.7145,0.0253,0.1903,0.1962,0.0059
+SA,LGG,omic_adn,omic_adn | 5_folds_1_batch_size,[5]_[50],10,0.5913,0.5628,0.0284,0.1968,0.201,0.0042
+SA,LGG,omic_adn_wsi_patches_10_patch,omic_adn_wsi_patches_10_patch | 5_folds_1_batch_size,"[5, 5]_[50, [8, 16, 32]]",10,0.585,0.5701,0.0149,0.1986,0.2039,0.0053
+SA,LGG,wsi_patches_10_patch,wsi_patches_10_patch | 5_folds_1_batch_size,"[5]_[[8, 16, 32]]",10,0.5672,0.5501,0.0171,0.1952,0.198,0.0028

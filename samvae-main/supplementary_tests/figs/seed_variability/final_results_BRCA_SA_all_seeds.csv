@@ -1,0 +1,8 @@
+task,dataset,modality,experiment,model_params,n_seeds,ci_top3_reported,ci_all10,ci_gap_top3_minus_all10,ibs_top3_reported,ibs_all10,ibs_gap_all10_minus_top3
+SA,BRCA,clinical,clinical | 5_folds_1_batch_size,[10]_[100],10,0.7106,0.6753,0.0353,0.1732,0.1921,0.0189
+SA,BRCA,clinical_omic_cnv,clinical_omic_cnv | 5_folds_1_batch_size,"[10, 5]_[100, 5]",10,0.6601,0.6327,0.0274,0.2011,0.2159,0.0148
+SA,BRCA,clinical_omic_cnv_wsi_patches_15_patch,clinical_omic_cnv_wsi_patches_15_patch | 5_folds_1_batch_size,"[10, 5, 5]_[100, 5, [32, 64, 128]]",10,0.629,0.6085,0.0205,0.1898,0.1964,0.0065
+SA,BRCA,clinical_wsi_patches_15_patch,clinical_wsi_patches_15_patch | 5_folds_1_batch_size,"[10, 5]_[100, [32, 64, 128]]",10,0.6515,0.622,0.0295,0.192,0.2022,0.0102
+SA,BRCA,omic_cnv,omic_cnv | 5_folds_512_batch_size,[5]_[5],10,0.6014,0.5815,0.0199,0.1907,0.2031,0.0124
+SA,BRCA,omic_cnv_wsi_patches_15_patch,omic_cnv_wsi_patches_15_patch | 5_folds_1_batch_size,"[5, 5]_[5, [32, 64, 128]]",10,0.6117,0.577,0.0347,0.1923,0.2029,0.0106
+SA,BRCA,wsi_patches_15_patch,wsi_patches_15_patch | 5_folds_1_batch_size,"[5]_[[32, 64, 128]]",10,0.5928,0.5767,0.0161,0.2035,0.2079,0.0044
